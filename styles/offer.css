@@ -1,0 +1,37 @@
+#what_we_offer{
+    margin-top:10em;
+    max-width: 95vw;
+}
+#what_we_offer > h1{
+    text-align: center;
+    padding:20px;
+    font-size: 3.5em;
+}
+.offer-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+}
+.offer-element{
+    border:solid 1px red;
+    padding:10px;
+    max-width:25vw;
+}
+
+@media screen and (max-width:1000px){
+    #what_we_offer > h1{
+        font-size: 3em;
+    }
+    .offer-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .offer-element{
+        max-width:70vw;
+    }
+}
+@media screen and (max-width:600px){
+    #what_we_offer > h1{
+        font-size: 2.5em;
+    }
+}
