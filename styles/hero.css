@@ -49,5 +49,10 @@
     .hero_cont>div>div>img{
         width:50%;
     }
-
+    .hero_cont > div>h1{
+        font-size: 3em;
+    }
+    .hero_cont>div>h1 , p{
+        padding-left: 7px;
+    }
 }
