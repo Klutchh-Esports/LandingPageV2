@@ -1,5 +1,6 @@
 # LandingPageV2
-
+**Temporary deployment** : 
+https://landing-page-v2-klutchh.netlify.app/
 - The repository for new landing page.
 - Design Link : https://www.figma.com/file/lSGcs139luIenhjLbRZdap/Landing-Page-V2?node-id=0%3A1
 
