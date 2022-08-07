@@ -1,0 +1,4251 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 5917px;
+
+background: #000235;
+
+
+/* BG circles */
+
+position: absolute;
+width: 2263px;
+height: 5775px;
+left: -389px;
+top: -544px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 540px;
+height: 540px;
+left: 1225px;
+top: 341px;
+
+background: rgba(171, 187, 217, 0.5);
+filter: blur(364px);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 762px;
+height: 762px;
+left: 33px;
+top: -544px;
+
+background: rgba(141, 141, 218, 0.5);
+filter: blur(364px);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 874px;
+height: 874px;
+left: 1000px;
+top: 4357px;
+
+background: rgba(171, 187, 217, 0.5);
+filter: blur(364px);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 762px;
+height: 762px;
+left: -389px;
+top: 3379px;
+
+background: rgba(141, 141, 218, 0.5);
+filter: blur(364px);
+
+
+/* Nav Bar */
+
+position: absolute;
+width: 431px;
+height: 35.36px;
+left: 548px;
+top: 59.41px;
+
+
+
+/* HOME */
+
+position: absolute;
+left: 38.06%;
+right: 57.85%;
+top: 1%;
+bottom: 98.4%;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+
+/* ABOUT */
+
+position: absolute;
+left: 46.81%;
+right: 48.4%;
+top: 1%;
+bottom: 98.4%;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+
+/* FAQs */
+
+position: absolute;
+left: 56.25%;
+right: 40.42%;
+top: 1%;
+bottom: 98.4%;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+
+/* BLOG */
+
+position: absolute;
+left: 64.24%;
+right: 32.01%;
+top: 1%;
+bottom: 98.4%;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+
+/* Get started button */
+
+position: absolute;
+width: 198px;
+height: 54px;
+left: 1084px;
+top: 41px;
+
+
+
+/* Rectangle 11852 */
+
+position: absolute;
+width: 198px;
+height: 54px;
+left: 1084px;
+top: 41px;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+box-shadow: inset 0px -3px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 6px rgba(255, 255, 255, 0.23);
+border-radius: 10px;
+
+
+/* GET STARTED */
+
+position: absolute;
+width: 132px;
+height: 27px;
+left: 1117px;
+top: 55px;
+
+/* Button */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Hero */
+
+position: absolute;
+width: 1129px;
+height: 532px;
+left: 158px;
+top: 192px;
+
+
+
+/* Mask group */
+
+position: absolute;
+visibility: hidden;
+width: 1440px;
+height: 751px;
+left: 1px;
+top: 104px;
+
+
+
+/* Rectangle 11859 */
+
+position: absolute;
+width: 1440px;
+height: 751px;
+left: 1px;
+top: 104px;
+
+background: rgba(141, 136, 136, 0.2);
+
+
+/* Games bg 2 */
+
+position: absolute;
+width: 1503px;
+height: 849px;
+left: -31px;
+top: 44px;
+
+background: url(Games bg.png);
+
+
+/* Sign Up */
+
+position: absolute;
+visibility: hidden;
+width: 345px;
+height: 51px;
+left: 188px;
+top: 545px;
+
+
+
+/* Rectangle 130 */
+
+position: absolute;
+width: 345px;
+height: 51px;
+left: 188px;
+top: 545px;
+
+background: #605FE2;
+border-radius: 8px;
+
+
+/* SIGN UP */
+
+position: absolute;
+width: 80px;
+height: 27px;
+left: 214px;
+top: 557px;
+
+/* Button */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Expand arrow */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 484px;
+top: 558px;
+
+
+
+/* Expand Arrow */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 484px;
+top: 582px;
+
+background: url(.png);
+transform: rotate(-90deg);
+
+
+/* Rectangle 128 */
+
+position: absolute;
+width: 50px;
+height: 54px;
+left: 475px;
+top: 543px;
+
+background: #FFFFFF;
+
+
+/* Frame 15 */
+
+position: absolute;
+width: 1129px;
+height: 532px;
+left: 158px;
+top: 192px;
+
+
+
+/* K logo PNG 1 */
+
+position: absolute;
+width: 544px;
+height: 532px;
+left: 0px;
+top: 0px;
+
+background: url(K logo PNG.png);
+
+
+/* Group 315 */
+
+position: absolute;
+width: 530px;
+height: 425px;
+left: 598px;
+top: 53.5px;
+
+
+
+/* are you ready to klutchh? */
+
+position: absolute;
+width: 529px;
+height: 180px;
+left: 599px;
+top: 53.5px;
+
+/* H1 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 78px;
+line-height: 115%;
+/* or 90px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* India’s Fastest Growing Esports Fantasy Platform. For the gamers by the gamers. */
+
+position: absolute;
+width: 406px;
+height: 54px;
+left: 600px;
+top: 248.5px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Enter Mobile Number form */
+
+position: absolute;
+width: 435px;
+height: 51px;
+left: 598px;
+top: 340.5px;
+
+
+
+/* Enter Mobile number  */
+
+position: absolute;
+width: 435px;
+height: 51px;
+left: 598px;
+top: 340.5px;
+
+
+
+/* Rectangle 129 */
+
+position: absolute;
+width: 435px;
+height: 51px;
+left: 598px;
+top: 340.5px;
+
+background: rgba(217, 217, 217, 0.32);
+border-radius: 8px;
+
+
+/* Enter Mobile No. */
+
+position: absolute;
+width: 146px;
+height: 27px;
+left: 624px;
+top: 352.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Get OTP bttn */
+
+position: absolute;
+width: 165px;
+height: 51px;
+left: 868px;
+top: 340.5px;
+
+box-shadow: inset 0px -3px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(255, 255, 255, 0.25);
+
+
+/* Rectangle 130 */
+
+position: absolute;
+width: 165px;
+height: 51px;
+left: 868px;
+top: 340.5px;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+border-radius: 8px;
+
+
+/* GET OTP */
+
+position: absolute;
+width: 83px;
+height: 27px;
+left: 909px;
+top: 352.5px;
+
+/* Button */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Download on app store */
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 598px;
+top: 431.5px;
+
+/* glow */
+filter: drop-shadow(0px 0px 4px rgba(255, 255, 255, 0.65));
+
+
+/* Rectangle 11865 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 598px;
+top: 431.5px;
+
+border: 1px solid rgba(255, 255, 255, 0.3);
+border-radius: 150px;
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 599px;
+top: 432.5px;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* Download on the */
+
+position: absolute;
+width: 77px;
+height: 12px;
+left: 658px;
+top: 439.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* App Store */
+
+position: absolute;
+width: 84px;
+height: 21px;
+left: 658px;
+top: 448.5px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 115%;
+/* identical to box height, or 21px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* apple */
+
+position: absolute;
+width: 28px;
+height: 29px;
+left: 607px;
+top: 438.5px;
+
+background: url(apple);
+
+
+/* Get APK for android */
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 776px;
+top: 431.5px;
+
+/* glow */
+filter: drop-shadow(0px 0px 4px rgba(255, 255, 255, 0.65));
+
+
+/* Rectangle 11865 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 776px;
+top: 431.5px;
+
+border: 1px solid rgba(255, 255, 255, 0.3);
+border-radius: 150px;
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 777px;
+top: 432.5px;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* For Android */
+
+position: absolute;
+width: 53px;
+height: 12px;
+left: 836px;
+top: 439.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Get APK */
+
+position: absolute;
+width: 72px;
+height: 21px;
+left: 836px;
+top: 448.5px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 115%;
+/* identical to box height, or 21px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* android icon */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 783px;
+top: 437.5px;
+
+background: url(android icon);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Go to the web app */
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 954px;
+top: 431.5px;
+
+/* glow */
+filter: drop-shadow(0px 0px 4px rgba(255, 255, 255, 0.65));
+
+
+/* Rectangle 11865 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 954px;
+top: 431.5px;
+
+border: 1px solid rgba(255, 255, 255, 0.3);
+border-radius: 150px;
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 955px;
+top: 432.5px;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* Go to the */
+
+position: absolute;
+width: 42px;
+height: 12px;
+left: 1014px;
+top: 439.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Web App */
+
+position: absolute;
+width: 76px;
+height: 21px;
+left: 1014px;
+top: 448.5px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 115%;
+/* identical to box height, or 21px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* web app */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 961px;
+top: 438.5px;
+
+background: url(web app);
+
+
+/* About us */
+
+position: absolute;
+width: 1440px;
+height: 772px;
+left: 0px;
+top: 724px;
+
+
+
+/* About us BG */
+
+position: absolute;
+width: 1440px;
+height: 772px;
+left: 0px;
+top: 724px;
+
+
+
+/* Rectangle 11858 */
+
+position: absolute;
+width: 1440px;
+height: 772px;
+left: 0px;
+top: 724px;
+
+/* Background gradient */
+background: linear-gradient(180deg, rgba(32, 32, 32, 0) -1.15%, rgba(32, 32, 32, 0.410178) 38.9%, rgba(32, 32, 32, 0) 97.54%);
+
+
+/* Games bg 1 */
+
+position: absolute;
+width: 1488.62px;
+height: 837.35px;
+left: -0.15px;
+top: 696.35px;
+
+background: url(Games bg.png);
+filter: blur(3px);
+transform: rotate(-0.16deg);
+
+
+/* Mask group */
+
+position: absolute;
+width: 1440px;
+height: 772px;
+left: 0px;
+top: 724px;
+
+
+
+/* Rectangle 11859 */
+
+position: absolute;
+width: 1440px;
+height: 772px;
+left: 0px;
+top: 724px;
+
+background: linear-gradient(178.06deg, #FFFBFB 50%, #E4E3E3 89.35%, rgba(217, 217, 217, 0) 98.38%);
+
+
+/* screenshots mockup 1 */
+
+position: absolute;
+width: 1446px;
+height: 826px;
+left: 6px;
+top: 946px;
+
+background: url(screenshots mockup.png);
+
+
+/* About Us */
+
+position: absolute;
+width: 254px;
+height: 64px;
+left: 593px;
+top: 849px;
+
+/* H2 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 115%;
+/* or 64px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Create your own team, choose from the best players across the globe & win real-time money! Become a part of the Klutchh community and stay updated about the biggest gaming events held globally. */
+
+position: absolute;
+width: 962px;
+height: 54px;
+left: 248px;
+top: 933px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Metrics */
+
+position: absolute;
+width: 912.66px;
+height: 115px;
+left: 274.17px;
+top: 1508px;
+
+
+
+/* Rectangle 11847 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 912.66px;
+height: 115px;
+left: 274.17px;
+top: 1508px;
+
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, rgba(0, 2, 53, 0.7) 0%, rgba(0, 1, 23, 0.7) 100%);
+border-radius: 8px;
+
+
+/* Contests hosted */
+
+position: absolute;
+width: 232.55px;
+height: 78.3px;
+left: 330.45px;
+top: 1525.94px;
+
+
+
+/* 500+ */
+
+position: absolute;
+width: 103.69px;
+height: 44.86px;
+left: 415px;
+top: 1538px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+text-align: center;
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Contests Hosted */
+
+position: absolute;
+width: 148px;
+height: 22px;
+left: 415px;
+top: 1571px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 115%;
+/* or 18px */
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 78.3px;
+height: 78.3px;
+left: 330.45px;
+top: 1525.94px;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* contests hosted 1 */
+
+position: absolute;
+width: 61.99px;
+height: 61.99px;
+left: 400.59px;
+top: 1534.1px;
+
+background: url(contests hosted);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Contests hosted */
+
+position: absolute;
+width: 265.3px;
+height: 78.3px;
+left: 594.7px;
+top: 1525.94px;
+
+
+
+/* 2 Lakhs + */
+
+position: absolute;
+width: 131px;
+height: 34px;
+left: 693px;
+top: 1538px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+text-align: center;
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Winnings Distributed */
+
+position: absolute;
+width: 181px;
+height: 22px;
+left: 679px;
+top: 1571px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 115%;
+/* or 18px */
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 78.3px;
+height: 78.3px;
+left: 594.7px;
+top: 1525.94px;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* winnings distributed 1 */
+
+position: absolute;
+width: 65.25px;
+height: 65.25px;
+left: 601.23px;
+top: 1534.1px;
+
+background: url(winnings distributed);
+
+
+/* Contests hosted */
+
+position: absolute;
+width: 262.45px;
+height: 78.3px;
+left: 900.55px;
+top: 1525.94px;
+
+
+
+/* 35,000+ */
+
+position: absolute;
+width: 151.7px;
+height: 44.86px;
+left: 988px;
+top: 1538px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+text-align: center;
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Community Members */
+
+position: absolute;
+width: 157px;
+height: 18px;
+left: 1006px;
+top: 1571px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 115%;
+/* or 18px */
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 78.3px;
+height: 78.3px;
+left: 900.55px;
+top: 1525.94px;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* community members 1 */
+
+position: absolute;
+width: 61.99px;
+height: 61.99px;
+left: 970.7px;
+top: 1535.73px;
+
+background: url(community members);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Testimonials */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 3963px;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 3963px;
+
+
+
+/* Rectangle 11862 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 3963px;
+
+background: linear-gradient(180deg, rgba(32, 32, 32, 0) -20.46%, rgba(32, 32, 32, 0.410178) 11.5%, rgba(32, 32, 32, 0) 90.77%);
+
+
+/* hero 1 */
+
+position: absolute;
+width: 1848px;
+height: 1735px;
+left: -127px;
+top: 3042px;
+
+background: url(hero);
+
+
+/* Testimonial Card 1 */
+
+position: absolute;
+width: 360px;
+height: 395px;
+left: 160px;
+top: 4304px;
+
+
+
+/* Card shadow */
+
+position: absolute;
+width: 360px;
+height: 47px;
+left: 160px;
+top: 4652px;
+
+background: rgba(1, 1, 18, 0.27);
+filter: blur(60px);
+border-radius: 32px;
+
+
+/* card */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 325px;
+left: 160px;
+top: 4358px;
+
+/* Card Gradient */
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, #000235 0%, #000117 100%);
+border-radius: 32px;
+
+
+/* Samridhh Singh */
+
+position: absolute;
+width: 120px;
+height: 18px;
+left: 280px;
+top: 4448px;
+
+/* Testimonial name */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 115%;
+/* or 18px */
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Samridh pic */
+
+position: absolute;
+width: 129px;
+height: 129px;
+left: 275px;
+top: 4304px;
+
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 129px;
+height: 129px;
+left: 275px;
+top: 4304px;
+
+background: #D9D9D9;
+
+
+/* WhatsApp Image 2022-06-23 at 10.26 1 */
+
+position: absolute;
+width: 346px;
+height: 616px;
+left: 167px;
+top: 4139px;
+
+background: url(WhatsApp Image 2022-06-23 at 10.26);
+mix-blend-mode: normal;
+
+
+/* “Playing my favourite games on Klutchh, and earning cash while at it? It has never looked better! Kudos to the team.” */
+
+position: absolute;
+width: 297px;
+height: 63px;
+left: 190px;
+top: 4480px;
+
+font-family: 'Poppins';
+font-style: italic;
+font-weight: 300;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 25,000INR */
+
+position: absolute;
+width: 156px;
+height: 34px;
+left: 261px;
+top: 4621px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+text-align: center;
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* WINNINGS */
+
+position: absolute;
+width: 98px;
+height: 18px;
+left: 290px;
+top: 4600px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 115%;
+/* or 18px */
+text-align: center;
+letter-spacing: 0.13em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 11851 */
+
+position: absolute;
+width: 360px;
+height: 2px;
+left: 160px;
+top: 4583px;
+
+background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(217, 217, 217, 0) 100%);
+
+
+/* Testimonial Card 2 */
+
+position: absolute;
+width: 360px;
+height: 395px;
+left: 540px;
+top: 4304px;
+
+
+
+/* Card shadow */
+
+position: absolute;
+width: 360px;
+height: 47px;
+left: 540px;
+top: 4652px;
+
+background: rgba(1, 1, 18, 0.27);
+filter: blur(60px);
+border-radius: 32px;
+
+
+/* card */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 325px;
+left: 540px;
+top: 4358px;
+
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, #000235 0%, #000117 100%);
+border-radius: 32px;
+
+
+/* Rahil Ali Khan */
+
+position: absolute;
+width: 106px;
+height: 18px;
+left: 666px;
+top: 4448px;
+
+/* Testimonial name */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 115%;
+/* or 18px */
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Rahil */
+
+position: absolute;
+width: 129px;
+height: 129px;
+left: 655px;
+top: 4304px;
+
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 129px;
+height: 129px;
+left: 655px;
+top: 4304px;
+
+background: #D9D9D9;
+
+
+/* WhatsApp Image 2022-06-23 at 8.31 1 */
+
+position: absolute;
+width: 247px;
+height: 177px;
+left: 600px;
+top: 4302px;
+
+background: url(WhatsApp Image 2022-06-23 at 8.31);
+mix-blend-mode: normal;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* “Klutchh is the first game of skill website I have tried and the site is well organized and clean. Definitely a gamechanger in the Esports fantasy area.” */
+
+position: absolute;
+width: 297px;
+height: 84px;
+left: 570px;
+top: 4480px;
+
+font-family: 'Poppins';
+font-style: italic;
+font-weight: 300;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 15,000INR */
+
+position: absolute;
+width: 150px;
+height: 34px;
+left: 644px;
+top: 4621px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+text-align: center;
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* WINNINGS */
+
+position: absolute;
+width: 98px;
+height: 18px;
+left: 670px;
+top: 4600px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 115%;
+/* or 18px */
+text-align: center;
+letter-spacing: 0.13em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 11851 */
+
+position: absolute;
+width: 360px;
+height: 2px;
+left: 540px;
+top: 4583px;
+
+background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(217, 217, 217, 0) 100%);
+
+
+/* Testimonial Card 3 */
+
+position: absolute;
+width: 360px;
+height: 395px;
+left: 920px;
+top: 4304px;
+
+
+
+/* Card shadow */
+
+position: absolute;
+width: 360px;
+height: 47px;
+left: 920px;
+top: 4652px;
+
+background: rgba(1, 1, 18, 0.27);
+filter: blur(60px);
+border-radius: 32px;
+
+
+/* card */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 325px;
+left: 920px;
+top: 4358px;
+
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, #000235 0%, #000117 100%);
+border-radius: 32px;
+
+
+/* Manas Mayank */
+
+position: absolute;
+width: 115px;
+height: 18px;
+left: 1042px;
+top: 4448px;
+
+/* Testimonial name */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 115%;
+/* or 18px */
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Manas */
+
+position: absolute;
+width: 129px;
+height: 129px;
+left: 1035px;
+top: 4304px;
+
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 129px;
+height: 129px;
+left: 1035px;
+top: 4304px;
+
+background: #D9D9D9;
+
+
+/* WhatsApp Image 2022-06-23 at 2.39 1 */
+
+position: absolute;
+width: 433px;
+height: 411px;
+left: 867px;
+top: 4251px;
+
+background: url(WhatsApp Image 2022-06-23 at 2.39);
+mix-blend-mode: normal;
+
+
+/* “I have been playing games for a long time but I never knew I could earn out of it. The transaction process on Klutchh is quick, and reliable which makes it easier to play!” */
+
+position: absolute;
+width: 337px;
+height: 84px;
+left: 930px;
+top: 4480px;
+
+font-family: 'Poppins';
+font-style: italic;
+font-weight: 300;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 10,000INR */
+
+position: absolute;
+width: 153px;
+height: 34px;
+left: 1023px;
+top: 4621px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+text-align: center;
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* WINNINGS */
+
+position: absolute;
+width: 98px;
+height: 18px;
+left: 1050px;
+top: 4600px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 115%;
+/* or 18px */
+text-align: center;
+letter-spacing: 0.13em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 11851 */
+
+position: absolute;
+width: 360px;
+height: 2px;
+left: 920px;
+top: 4583px;
+
+background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(217, 217, 217, 0) 100%);
+
+
+/* We heard it from our Agents */
+
+position: absolute;
+width: 779px;
+height: 64px;
+left: 332px;
+top: 4154px;
+
+/* H2 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 115%;
+/* or 64px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Footer */
+
+position: absolute;
+width: 1159.44px;
+height: 315px;
+left: 123px;
+top: 5371px;
+
+
+
+/* © Copyright Klutchh Gaming Private Limited 2022 | All Rights Reserved */
+
+position: absolute;
+height: 24px;
+left: 483px;
+right: 483px;
+top: calc(50% - 24px/2 + 2676.5px);
+
+/* Body / Body 2 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+font-feature-settings: 'salt' on, 'liga' off;
+
+/* Text / Gray 300 */
+color: #D9DBE1;
+
+
+
+/* This game involves an element of financial risk and may be addictive. Please Play responsibly and at your own risk. */
+
+position: absolute;
+height: 24px;
+left: 336px;
+right: 335px;
+top: calc(50% - 24px/2 + 2715.5px);
+
+/* Body / Body 2 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+font-feature-settings: 'salt' on, 'liga' off;
+
+/* Text / Gray 300 */
+color: #D9DBE1;
+
+
+
+/* Socials */
+
+position: absolute;
+width: 474.44px;
+height: 70.11px;
+left: 808px;
+top: 5371px;
+
+
+
+/* Social Media / Discord */
+
+position: absolute;
+height: 70.11px;
+left: 1212.32px;
+right: 157.56px;
+bottom: 475.89px;
+
+
+
+/* Logo Container */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+border-radius: 20px;
+
+
+/* Vector */
+
+position: absolute;
+left: 24%;
+right: 23.83%;
+top: 30.23%;
+bottom: 29.74%;
+
+background: #FFFFFF;
+
+
+/* Social Media / Linkedin */
+
+position: absolute;
+height: 70.11px;
+left: 1111.24px;
+right: 258.64px;
+bottom: 475.89px;
+
+
+
+/* Logo Container */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+border-radius: 20px;
+
+
+/* Group */
+
+position: absolute;
+left: 29%;
+right: 29.16%;
+top: 30.23%;
+bottom: 29.74%;
+
+
+
+/* Vector */
+
+position: absolute;
+visibility: hidden;
+left: 20.28%;
+right: 19.77%;
+top: 20.05%;
+bottom: 19.95%;
+
+background: #006699;
+
+
+/* Vector */
+
+position: absolute;
+left: 29%;
+right: 29.16%;
+top: 30.23%;
+bottom: 29.74%;
+
+background: #FFFFFF;
+
+
+/* Social Media / Twitter */
+
+position: absolute;
+height: 70.11px;
+left: 1010.16px;
+right: 359.72px;
+bottom: 475.89px;
+
+
+
+/* Logo Container */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+border-radius: 20px;
+
+
+/* Capa 2 */
+
+position: absolute;
+left: 24%;
+right: 24.95%;
+top: 29.11%;
+bottom: 28.78%;
+
+
+
+/* ELEMENTS */
+
+position: absolute;
+left: 24%;
+right: 24.95%;
+top: 29.11%;
+bottom: 28.78%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24%;
+right: 24.95%;
+top: 29.11%;
+bottom: 28.78%;
+
+/* Neutrals/White */
+background: #FFFFFF;
+
+
+/* Social Media / Instagram */
+
+position: absolute;
+height: 70.11px;
+left: 909.08px;
+right: 460.8px;
+bottom: 475.89px;
+
+
+
+/* Logo Container */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+border-radius: 20px;
+
+
+/* Group 15 */
+
+position: absolute;
+left: 25%;
+right: 24.97%;
+top: 25.11%;
+bottom: 24.85%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 24.97%;
+top: 25.11%;
+bottom: 24.85%;
+
+/* Neutrals/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 24.97%;
+top: 25.11%;
+bottom: 24.85%;
+
+
+
+/* Social Media / Facebook */
+
+position: absolute;
+height: 70.11px;
+left: 808px;
+right: 561.89px;
+bottom: 475.89px;
+
+
+
+/* Logo Container */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+border-radius: 20px;
+
+
+/* Capa 2 */
+
+position: absolute;
+left: 37%;
+right: 35.93%;
+top: 25.11%;
+bottom: 24.85%;
+
+
+
+/* ELEMENTS */
+
+position: absolute;
+left: 37%;
+right: 35.93%;
+top: 25.11%;
+bottom: 24.85%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 37%;
+right: 35.93%;
+top: 25.11%;
+bottom: 24.85%;
+
+/* Neutrals/White */
+background: #FFFFFF;
+
+
+/* Klutchh logo */
+
+position: absolute;
+width: 157px;
+height: 107px;
+left: 123px;
+bottom: 439px;
+
+background: url(logo (2));
+
+
+/* Home */
+
+position: absolute;
+width: 50px;
+height: 27px;
+left: 160px;
+bottom: 378px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Default / White */
+color: #FFFFFF;
+
+
+
+/* About */
+
+position: absolute;
+width: 52px;
+height: 27px;
+left: 228px;
+bottom: 378px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Default / White */
+color: #FFFFFF;
+
+
+
+/* FAQs */
+
+position: absolute;
+width: 43px;
+height: 27px;
+left: 298px;
+bottom: 378px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Default / White */
+color: #FFFFFF;
+
+
+
+/* Blogs */
+
+position: absolute;
+width: 45px;
+height: 27px;
+left: 361px;
+bottom: 378px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Default / White */
+color: #FFFFFF;
+
+
+
+/* Terms */
+
+position: absolute;
+width: 51px;
+height: 27px;
+left: 425px;
+bottom: 378px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Default / White */
+color: #FFFFFF;
+
+
+
+/* Privacy Policy */
+
+position: absolute;
+width: 115px;
+height: 27px;
+left: 494px;
+bottom: 378px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Default / White */
+color: #FFFFFF;
+
+
+
+/* Download on app store */
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 760px;
+top: 5492px;
+
+
+
+/* Rectangle 11865 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 760px;
+top: 5492px;
+
+border: 1px solid rgba(255, 255, 255, 0.3);
+border-radius: 150px;
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 761px;
+top: 5493px;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* Download on the */
+
+position: absolute;
+width: 77px;
+height: 12px;
+left: 820px;
+top: 5500px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* App Store */
+
+position: absolute;
+width: 84px;
+height: 21px;
+left: 820px;
+top: 5509px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 115%;
+/* identical to box height, or 21px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* apple */
+
+position: absolute;
+width: 28px;
+height: 29px;
+left: 769px;
+top: 5499px;
+
+background: url(apple);
+
+
+/* Get APK for android */
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 938px;
+top: 5492px;
+
+
+
+/* Rectangle 11865 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 938px;
+top: 5492px;
+
+border: 1px solid rgba(255, 255, 255, 0.3);
+border-radius: 150px;
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 939px;
+top: 5493px;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* For Android */
+
+position: absolute;
+width: 53px;
+height: 12px;
+left: 998px;
+top: 5500px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Get APK */
+
+position: absolute;
+width: 72px;
+height: 21px;
+left: 998px;
+top: 5509px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 115%;
+/* identical to box height, or 21px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* android icon */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 945px;
+top: 5498px;
+
+background: url(android icon);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Go to the web app */
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 1116px;
+top: 5492px;
+
+
+
+/* Rectangle 11865 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 1116px;
+top: 5492px;
+
+border: 1px solid rgba(255, 255, 255, 0.3);
+border-radius: 150px;
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1117px;
+top: 5493px;
+
+background: rgba(255, 255, 255, 0.2);
+
+
+/* Go to the */
+
+position: absolute;
+width: 42px;
+height: 12px;
+left: 1176px;
+top: 5500px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Web App */
+
+position: absolute;
+width: 76px;
+height: 21px;
+left: 1176px;
+top: 5509px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 115%;
+/* identical to box height, or 21px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* web app */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 1123px;
+top: 5499px;
+
+background: url(web app);
+
+
+/* Ending */
+
+position: absolute;
+width: 668px;
+height: 275px;
+left: 393px;
+top: 4923px;
+
+
+
+/* Your greatest weapon is you. */
+
+position: absolute;
+width: 668px;
+height: 55px;
+left: 393px;
+top: 4923px;
+
+/* H3 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 115%;
+/* or 55px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Make the move. */
+
+position: absolute;
+width: 596px;
+height: 90px;
+left: 434px;
+top: 4987px;
+
+/* H1 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 78px;
+line-height: 115%;
+/* identical to box height, or 90px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #8967D9;
+
+
+
+/* Get started button */
+
+position: absolute;
+width: 198px;
+height: 54px;
+left: 621px;
+top: 5144px;
+
+
+
+/* Rectangle 11852 */
+
+position: absolute;
+width: 198px;
+height: 54px;
+left: 621px;
+top: 5144px;
+
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+box-shadow: inset 0px -3px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 6px rgba(255, 255, 255, 0.23);
+border-radius: 10px;
+
+
+/* GET STARTED */
+
+position: absolute;
+width: 104px;
+height: 24px;
+left: 668px;
+top: 5159px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 237.5px;
+height: 29px;
+left: 160px;
+top: 59px;
+
+
+
+/* KLUTCHH 1 */
+
+position: absolute;
+width: 237.5px;
+height: 29px;
+left: 160px;
+top: 59px;
+
+background: url(KLUTCHH.png);
+
+
+/* Rectangle 11866 */
+
+position: absolute;
+width: 272px;
+height: 48px;
+left: 148px;
+top: 40px;
+
+background: #FFFFFF;
+
+
+/* Battleground you can enter */
+
+position: absolute;
+width: 1440px;
+height: 1121px;
+left: 0px;
+top: 1672px;
+
+
+
+/* Rectangle 11861 */
+
+position: absolute;
+width: 1440px;
+height: 1121px;
+left: 0px;
+top: 1672px;
+
+/* Background gradient */
+background: linear-gradient(180deg, rgba(32, 32, 32, 0) -1.15%, rgba(32, 32, 32, 0.410178) 38.9%, rgba(32, 32, 32, 0) 97.54%);
+
+
+/* Battlegrounds you can enter */
+
+position: absolute;
+width: 755px;
+height: 64px;
+left: 343px;
+top: 1744px;
+
+/* H2 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 115%;
+/* or 64px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #8967D9;
+
+
+
+/* Title card */
+
+position: absolute;
+width: 360px;
+height: 407px;
+left: 160px;
+top: 1843px;
+
+
+
+/* card */
+
+position: absolute;
+width: 360px;
+height: 320px;
+left: 160px;
+top: 1930px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 11.11%;
+right: 63.89%;
+top: 32.62%;
+bottom: 61.97%;
+
+background: #38393D;
+border-radius: 50px;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 11.11%;
+right: 63.89%;
+top: 32.62%;
+bottom: 61.97%;
+
+background: #071B24;
+border-radius: 50px;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 1198px;
+height: 1072px;
+left: -3px;
+top: 975px;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+filter: blur(200px);
+
+
+/* 3037968 (1) 1 */
+
+position: absolute;
+width: 1583px;
+height: 890px;
+left: -246px;
+top: 1633px;
+
+background: url(3037968 (1).jpg);
+
+
+/* Character */
+
+position: absolute;
+width: 360px;
+height: 407px;
+left: 160px;
+top: 1843px;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 11.11%;
+right: 63.89%;
+top: 31.15%;
+bottom: 61.97%;
+
+background: #071B24;
+border-radius: 50px;
+
+
+/* JEtt 1 */
+
+position: absolute;
+width: 502px;
+height: 583px;
+left: -37px;
+top: 1809px;
+
+background: url(JEtt.png);
+
+
+/* Valorant logo 1 */
+
+position: absolute;
+width: 173px;
+height: 138px;
+left: 347px;
+top: 2072px;
+
+background: url(Valorant logo.png);
+
+
+/* Title card */
+
+position: absolute;
+width: 360px;
+height: 407px;
+left: 351px;
+top: 2288px;
+
+
+
+/* card */
+
+position: absolute;
+width: 360px;
+height: 320px;
+left: 351px;
+top: 2375px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 24.38%;
+right: 50.62%;
+top: 40.14%;
+bottom: 54.45%;
+
+background: #38393D;
+border-radius: 50px;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 24.38%;
+right: 50.62%;
+top: 40.14%;
+bottom: 54.45%;
+
+background: #071B24;
+border-radius: 50px;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 1198px;
+height: 1072px;
+left: 188px;
+top: 1420px;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+filter: blur(200px);
+
+
+/* 3037968 (1) 1 */
+
+position: absolute;
+width: 1583px;
+height: 890px;
+left: -55px;
+top: 2078px;
+
+background: url(3037968 (1).jpg);
+
+
+/* Character */
+
+position: absolute;
+width: 360px;
+height: 407px;
+left: 351px;
+top: 2288px;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 24.38%;
+right: 50.62%;
+top: 38.67%;
+bottom: 54.45%;
+
+background: #071B24;
+border-radius: 50px;
+
+
+/* JEtt 1 */
+
+position: absolute;
+width: 502px;
+height: 583px;
+left: 154px;
+top: 2254px;
+
+background: url(JEtt.png);
+
+
+/* Valorant logo 1 */
+
+position: absolute;
+width: 173px;
+height: 138px;
+left: 538px;
+top: 2517px;
+
+background: url(Valorant logo.png);
+
+
+/* Title card */
+
+position: absolute;
+width: 360px;
+height: 407px;
+left: 540px;
+top: 1843px;
+
+
+
+/* card */
+
+position: absolute;
+width: 360px;
+height: 320px;
+left: 540px;
+top: 1930px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 32.62%;
+bottom: 61.97%;
+
+background: #38393D;
+border-radius: 50px;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 32.62%;
+bottom: 61.97%;
+
+background: #071B24;
+border-radius: 50px;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 1198px;
+height: 1072px;
+left: 377px;
+top: 975px;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+filter: blur(200px);
+
+
+/* pubg-mobile-temporada-16-royale-pass-6711 (1) 1 */
+
+position: absolute;
+width: 976px;
+height: 549px;
+left: 287px;
+top: 1767px;
+
+background: url(pubg-mobile-temporada-16-royale-pass-6711 (1).jpg);
+
+
+/* Character */
+
+position: absolute;
+width: 360px;
+height: 407px;
+left: 540px;
+top: 1843px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 31.15%;
+bottom: 61.97%;
+
+background: #071B24;
+border-radius: 50px;
+
+
+/* BGMI 1 */
+
+position: absolute;
+width: 505px;
+height: 615px;
+left: 792px;
+top: 1808px;
+
+background: url(BGMI.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* pubgm 1 */
+
+position: absolute;
+width: 152px;
+height: 152px;
+left: 748px;
+top: 2094px;
+
+background: url(pubgm);
+
+
+/* Title card */
+
+position: absolute;
+width: 360px;
+height: 407px;
+left: 731px;
+top: 2288px;
+
+
+
+/* card */
+
+position: absolute;
+width: 360px;
+height: 320px;
+left: 731px;
+top: 2375px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 50.76%;
+right: 24.24%;
+top: 40.14%;
+bottom: 54.45%;
+
+background: #38393D;
+border-radius: 50px;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 50.76%;
+right: 24.24%;
+top: 40.14%;
+bottom: 54.45%;
+
+background: #071B24;
+border-radius: 50px;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 1198px;
+height: 1072px;
+left: 568px;
+top: 1420px;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+filter: blur(200px);
+
+
+/* pubg-mobile-temporada-16-royale-pass-6711 (1) 1 */
+
+position: absolute;
+width: 976px;
+height: 549px;
+left: 478px;
+top: 2212px;
+
+background: url(pubg-mobile-temporada-16-royale-pass-6711 (1).jpg);
+
+
+/* Character */
+
+position: absolute;
+width: 360px;
+height: 407px;
+left: 731px;
+top: 2288px;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 50.76%;
+right: 24.24%;
+top: 38.67%;
+bottom: 54.45%;
+
+background: #071B24;
+border-radius: 50px;
+
+
+/* BGMI 1 */
+
+position: absolute;
+width: 505px;
+height: 615px;
+left: 983px;
+top: 2253px;
+
+background: url(BGMI.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* BGMI Logo 1 */
+
+position: absolute;
+width: 117px;
+height: 135px;
+left: 952px;
+top: 2524px;
+
+background: url(BGMI Logo);
+
+
+/* Title card */
+
+position: absolute;
+width: 360px;
+height: 407px;
+left: 920px;
+top: 1843px;
+
+
+
+/* card */
+
+position: absolute;
+width: 360px;
+height: 320px;
+left: 920px;
+top: 1930px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 63.89%;
+right: 11.11%;
+top: 32.62%;
+bottom: 61.97%;
+
+background: #38393D;
+border-radius: 50px;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 63.89%;
+right: 11.11%;
+top: 32.62%;
+bottom: 61.97%;
+
+background: #071B24;
+border-radius: 50px;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 1198px;
+height: 1072px;
+left: 757px;
+top: 975px;
+
+/* Purple gradient */
+background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
+filter: blur(200px);
+
+
+/* 1_pop (1) 1 */
+
+position: absolute;
+width: 1102px;
+height: 716px;
+left: 445px;
+top: 1808px;
+
+background: url(1_pop (1).jpg);
+
+
+/* Character */
+
+position: absolute;
+width: 360px;
+height: 407px;
+left: 920px;
+top: 1843px;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 63.89%;
+right: 11.11%;
+top: 31.15%;
+bottom: 61.97%;
+
+background: #071B24;
+border-radius: 50px;
+
+
+/* pngaaa 1 */
+
+position: absolute;
+width: 445px;
+height: 655px;
+left: 779px;
+top: 1843px;
+
+background: url(pngaaa.png);
+
+
+/* Group 311 */
+
+position: absolute;
+width: 178px;
+height: 178px;
+left: 1091px;
+top: 2072px;
+
+
+
+/* free fire 1 */
+
+position: absolute;
+width: 178px;
+height: 178px;
+left: 1091px;
+top: 2072px;
+
+background: url(free fire.png);
+
+
+/* How to start */
+
+position: absolute;
+width: 1440px;
+height: 719px;
+left: 0px;
+top: 2771px;
+
+
+
+/* How to start BG */
+
+position: absolute;
+width: 1440px;
+height: 719px;
+left: 0px;
+top: 2771px;
+
+
+
+/* Rectangle 11854 */
+
+position: absolute;
+width: 1440px;
+height: 719px;
+left: 0px;
+top: 2771px;
+
+background: linear-gradient(180deg, rgba(32, 32, 32, 0) -1.15%, rgba(32, 32, 32, 0.410178) 38.9%, rgba(32, 32, 32, 0) 97.54%);
+
+
+/* mockup1 1 */
+
+position: absolute;
+width: 1968px;
+height: 1102px;
+left: -189px;
+top: 2580px;
+
+background: url(mockup1.png);
+filter: blur(4px);
+
+
+/* How to start? */
+
+position: absolute;
+width: 371px;
+height: 64px;
+left: 549px;
+top: 2851px;
+
+/* H2 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 115%;
+/* or 64px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* 01. Sign up */
+
+position: absolute;
+width: 371px;
+height: 129px;
+left: 160px;
+top: 3031px;
+
+
+
+/* Sign up */
+
+position: absolute;
+width: 108px;
+height: 34px;
+left: 255px;
+top: 3049px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Get instant access via your phone number or email address. */
+
+position: absolute;
+width: 276px;
+height: 54px;
+left: 255px;
+top: 3106px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* icon shadow */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 160px;
+top: 3031px;
+
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, rgba(141, 103, 225, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+opacity: 0.5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* circle */
+
+position: absolute;
+width: 55px;
+height: 54px;
+left: 170px;
+top: 3056px;
+
+background: rgba(255, 255, 255, 0.5);
+opacity: 0.5;
+filter: blur(57px);
+
+
+/* sign up 1 */
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 174px;
+top: 3043px;
+
+background: url(sign up);
+
+
+/* 02 Enter a contest */
+
+position: absolute;
+width: 353px;
+height: 156px;
+left: 160px;
+top: 3211px;
+
+
+
+/* Pick your mVP */
+
+position: absolute;
+width: 203px;
+height: 34px;
+left: 255px;
+top: 3229px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Choose your top 3 players/teams and multiply your winnings. */
+
+position: absolute;
+width: 258px;
+height: 81px;
+left: 255px;
+top: 3286px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* icon shadow */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 160px;
+top: 3211px;
+
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, rgba(141, 103, 225, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+opacity: 0.5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* circle */
+
+position: absolute;
+width: 55px;
+height: 54px;
+left: 170px;
+top: 3236px;
+
+background: rgba(255, 255, 255, 0.5);
+opacity: 0.5;
+filter: blur(57px);
+
+
+/* choose your MVP 1 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 174px;
+top: 3222px;
+
+background: url(choose your MVP);
+
+
+/* 03 Draft your team */
+
+position: absolute;
+width: 353px;
+height: 129px;
+left: 540px;
+top: 3031px;
+
+
+
+/* Enter a contest */
+
+position: absolute;
+width: 224px;
+height: 34px;
+left: 635px;
+top: 3049px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Choose and enter multiple contests on the app. */
+
+position: absolute;
+width: 258px;
+height: 54px;
+left: 635px;
+top: 3106px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* icon shadow */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 540px;
+top: 3031px;
+
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, rgba(141, 103, 225, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+opacity: 0.5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* circle */
+
+position: absolute;
+width: 55px;
+height: 54px;
+left: 550px;
+top: 3056px;
+
+background: rgba(255, 255, 255, 0.5);
+opacity: 0.5;
+filter: blur(57px);
+
+
+/* Enter a contest 1 */
+
+position: absolute;
+width: 52px;
+height: 55px;
+left: 552px;
+top: 3038px;
+
+background: url(Enter a contest);
+
+
+/* 04 Pick your MVP */
+
+position: absolute;
+width: 353px;
+height: 129px;
+left: 540px;
+top: 3211px;
+
+
+
+/* pay to enter */
+
+position: absolute;
+width: 178px;
+height: 34px;
+left: 635px;
+top: 3229px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Pay the minimum amount and enter. Entries start from INR 0. */
+
+position: absolute;
+width: 258px;
+height: 54px;
+left: 635px;
+top: 3286px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* icon shadow */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 540px;
+top: 3211px;
+
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, rgba(141, 103, 225, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+opacity: 0.5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* circle */
+
+position: absolute;
+width: 55px;
+height: 54px;
+left: 550px;
+top: 3236px;
+
+background: rgba(255, 255, 255, 0.5);
+opacity: 0.5;
+filter: blur(57px);
+
+
+/* pay to enter 1 */
+
+position: absolute;
+width: 54px;
+height: 54px;
+left: 548px;
+top: 3220px;
+
+background: url(pay to enter);
+
+
+/* 05 Pay to enter */
+
+position: absolute;
+width: 353px;
+height: 156px;
+left: 920px;
+top: 3031px;
+
+
+
+/* Draft your team */
+
+position: absolute;
+width: 233px;
+height: 34px;
+left: 1015px;
+top: 3049px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Choose your favorite players from the rosters and draft your team. */
+
+position: absolute;
+width: 258px;
+height: 81px;
+left: 1015px;
+top: 3106px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* icon shadow */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 920px;
+top: 3031px;
+
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, rgba(141, 103, 225, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+opacity: 0.5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* circle */
+
+position: absolute;
+width: 55px;
+height: 54px;
+left: 930px;
+top: 3056px;
+
+background: rgba(255, 255, 255, 0.5);
+opacity: 0.5;
+filter: blur(57px);
+
+
+/* draft your team 1 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 934px;
+top: 3042px;
+
+background: url(draft your team);
+
+
+/* 06 Win real Cash */
+
+position: absolute;
+width: 353px;
+height: 129px;
+left: 920px;
+top: 3211px;
+
+
+
+/* win real cash */
+
+position: absolute;
+width: 202px;
+height: 34px;
+left: 1015px;
+top: 3229px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Win tournments, climb up the leaderboard and win big! */
+
+position: absolute;
+width: 258px;
+height: 54px;
+left: 1015px;
+top: 3286px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* icon shadow */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 920px;
+top: 3211px;
+
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, rgba(141, 103, 225, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+opacity: 0.5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* circle */
+
+position: absolute;
+width: 55px;
+height: 54px;
+left: 930px;
+top: 3236px;
+
+background: rgba(255, 255, 255, 0.5);
+opacity: 0.5;
+filter: blur(57px);
+
+
+/* win real cash 1 */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 932px;
+top: 3221px;
+
+background: url(win real cash);
+
+
+/* What we offer */
+
+position: absolute;
+width: 1120px;
+height: 438px;
+left: 160px;
+top: 3490px;
+
+
+
+/* Free Entry */
+
+position: absolute;
+width: 360px;
+height: 276px;
+left: 160px;
+top: 3652px;
+
+
+
+/* Shadow */
+
+position: absolute;
+width: 360px;
+height: 39px;
+left: 160px;
+top: 3889px;
+
+background: rgba(255, 255, 255, 0.27);
+filter: blur(148px);
+border-radius: 22px;
+
+
+/* Rectangle 11849 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 257px;
+left: 160px;
+top: 3652px;
+
+/* Card Gradient */
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, #000235 0%, #000117 100%);
+border-radius: 22px;
+
+
+/* glow */
+
+position: absolute;
+width: 360px;
+height: 257px;
+left: 160px;
+top: 3652px;
+
+
+
+/* Rectangle 11850 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 257px;
+left: 160px;
+top: 3652px;
+
+/* Card Gradient */
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, #000235 0%, #000117 100%);
+border-radius: 22px;
+
+
+/* free entry 2 */
+
+position: absolute;
+width: 288px;
+height: 288px;
+left: 394.42px;
+top: 3542.76px;
+
+background: url(free entry);
+filter: blur(161px);
+transform: rotate(108.16deg);
+
+
+/* You can now enter your favorite contests using as less as ZERO rupees and win as much as 2 lakhs per month! */
+
+position: absolute;
+width: 335px;
+height: 81px;
+left: 181px;
+top: 3812px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Free Entry */
+
+position: absolute;
+width: 156.52px;
+height: 34px;
+left: 180.87px;
+top: 3774px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 97px;
+height: 97px;
+left: 402px;
+top: 3669px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.16) 0%, rgba(255, 255, 255, 0.1152) 100%);
+
+
+/* free entry 1 */
+
+position: absolute;
+width: 72px;
+height: 72px;
+left: 415px;
+top: 3679px;
+
+background: url(free entry);
+
+
+/* Multiple Titles */
+
+position: absolute;
+width: 360px;
+height: 276px;
+left: 540px;
+top: 3652px;
+
+
+
+/* Shadow */
+
+position: absolute;
+width: 360px;
+height: 39px;
+left: 540px;
+top: 3889px;
+
+background: rgba(255, 255, 255, 0.27);
+filter: blur(148px);
+border-radius: 22px;
+
+
+/* Rectangle 11849 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 257px;
+left: 540px;
+top: 3652px;
+
+/* Card Gradient */
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, #000235 0%, #000117 100%);
+border-radius: 22px;
+
+
+/* glow */
+
+position: absolute;
+width: 360px;
+height: 257px;
+left: 540px;
+top: 3652px;
+
+
+
+/* Rectangle 11850 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 257px;
+left: 540px;
+top: 3652px;
+
+/* Card Gradient */
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, #000235 0%, #000117 100%);
+border-radius: 22px;
+
+
+/* free entry 2 */
+
+position: absolute;
+width: 288px;
+height: 288px;
+left: 774.42px;
+top: 3542.76px;
+
+background: url(free entry);
+filter: blur(161px);
+transform: rotate(108.16deg);
+
+
+/* We feature multiple esports titles like Valorant, PUBGM, CS:GO and this list is always growing. */
+
+position: absolute;
+width: 282px;
+height: 81px;
+left: 562px;
+top: 3812px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Multiple Titles */
+
+position: absolute;
+width: 209.74px;
+height: 34px;
+left: 561.91px;
+top: 3774px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 97px;
+height: 97px;
+left: 783px;
+top: 3669px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.16) 0%, rgba(255, 255, 255, 0.1152) 100%);
+
+
+/* multiple esports titles 1 */
+
+position: absolute;
+width: 72px;
+height: 72px;
+left: 796px;
+top: 3686px;
+
+background: url(multiple esports titles);
+
+
+/* Safe withdrawals */
+
+position: absolute;
+width: 360px;
+height: 276px;
+left: 920px;
+top: 3652px;
+
+
+
+/* Shadow */
+
+position: absolute;
+width: 360px;
+height: 39px;
+left: 920px;
+top: 3889px;
+
+background: rgba(255, 255, 255, 0.27);
+filter: blur(148px);
+border-radius: 22px;
+
+
+/* Rectangle 11850 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 257px;
+left: 920px;
+top: 3652px;
+
+/* Card Gradient */
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, #000235 0%, #000117 100%);
+border-radius: 22px;
+
+
+/* glow */
+
+position: absolute;
+width: 360px;
+height: 257px;
+left: 920px;
+top: 3652px;
+
+
+
+/* Rectangle 11850 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 257px;
+left: 920px;
+top: 3652px;
+
+/* Card Gradient */
+background: radial-gradient(86.93% 86.93% at 50% 11.02%, #000235 0%, #000117 100%);
+border-radius: 22px;
+
+
+/* free entry 2 */
+
+position: absolute;
+width: 288px;
+height: 288px;
+left: 1154.42px;
+top: 3542.76px;
+
+background: url(free entry);
+filter: blur(161px);
+transform: rotate(108.16deg);
+
+
+/* Safe Withdrawals */
+
+position: absolute;
+width: 266.09px;
+height: 34px;
+left: 942.96px;
+top: 3785px;
+
+/* H4 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 115%;
+/* or 34px */
+display: flex;
+align-items: center;
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Easily withdraw your cash using UPI or direct bank transfers. */
+
+position: absolute;
+width: 315px;
+height: 54px;
+left: 943px;
+top: 3820px;
+
+/* Body Text */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 97px;
+height: 97px;
+left: 1164px;
+top: 3669px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.16) 0%, rgba(255, 255, 255, 0.1152) 100%);
+
+
+/* safe withdrawls 1 */
+
+position: absolute;
+width: 67px;
+height: 67px;
+left: 1178px;
+top: 3687px;
+
+background: url(safe withdrawls);
+
+
+/* What we offer */
+
+position: absolute;
+width: 399px;
+height: 64px;
+left: 521px;
+top: 3490px;
+
+/* H2 */
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 115%;
+/* or 64px */
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
