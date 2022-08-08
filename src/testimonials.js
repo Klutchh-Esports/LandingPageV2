@@ -8,10 +8,7 @@ html`
 ${data.map(
         (item)=>html`
     <div class='testimonials-element'>
-        <div class='flex flex-col'>
-            <h2>${item.name}</h2>
-            <p>${item.description}</p>
-        </div>
+        <img src=${item.image} alt='' />
     </div>`
     )}
 </div>`

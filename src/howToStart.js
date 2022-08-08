@@ -6,7 +6,7 @@ html`<h1>How To <span class='text-klutchh-purple'>Start<span></h1>
 <div class='start-container'>
 ${data.map(
         (item)=>html`
-        <div class='start-element flex'>
+    <div class='start-element flex'>
         <img src=${item.image} alt='step 1 sign up' />
         <div class='flex flex-col'>
             <h2>${item.title}</h2>

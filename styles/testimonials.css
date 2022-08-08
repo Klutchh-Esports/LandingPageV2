@@ -1,7 +1,7 @@
 #testimonials{
     margin-top:10em;
-    max-width: 95vw;
     margin-bottom:10em;
+    padding:10px;
 }
 #testimonials > h1{
     text-align: center;
@@ -11,15 +11,15 @@
 .testimonials-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
     grid-auto-rows: minmax(100px, auto);
 }
 .testimonials-element{
-    border:solid 1px red;
-    padding:10px;
-    max-width:25vw;
+    margin:auto;
 }
-
+.testimonials-element > img{
+    width:450px;
+    height:auto;
+}
 @media screen and (max-width:1000px){
     #testimonials > h1{
         font-size: 3em;
@@ -27,12 +27,18 @@
     .testimonials-container{
         grid-template-columns: repeat(1, 1fr);
     }
-    .testimonials-element{
-        max-width:70vw;
+    .testimonials-element > img{
+        width:400px;
+        height:auto;
     }
 }
 @media screen and (max-width:600px){
     #testimonials > h1{
         font-size: 2.5em;
+    }
+    
+    .testimonials-element > img{
+        width:360px;
+        height:auto;
     }
 }

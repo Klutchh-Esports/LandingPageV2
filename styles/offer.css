@@ -1,6 +1,5 @@
 #what_we_offer{
-    margin-top:10em;
-    max-width: 95vw;
+    margin-top:8em;
 }
 #what_we_offer > h1{
     text-align: center;
@@ -10,13 +9,29 @@
 .offer-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
+    gap: 20px;
     grid-auto-rows: minmax(100px, auto);
 }
 .offer-element{
-    border:solid 1px red;
     padding:10px;
-    max-width:25vw;
+    width:360px;
+    height:257px;
+    background-image: url('../images/what_we_offer/what_we_offer_card.avif');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.offer-element > div{
+    position: absolute;
+    bottom:1.5em;
+    width:90%;
+    padding:10px;
+}
+.offer-element > div > h2{
+    font-size: 2em;
+    margin-bottom: 5px;
+}
+.offer-element>img{
+    right:1em;
 }
 
 @media screen and (max-width:1000px){
@@ -31,7 +46,36 @@
     }
 }
 @media screen and (max-width:600px){
+    .offer-element{
+        margin:auto;
+        margin-left: 1.1em;
+        margin-right: 1.5em;
+        margin-top: 25px;
+        transform: scale(1.1);
+    }
+    .offer-container{
+        height:auto;
+        overflow-y: hidden;
+    }
     #what_we_offer > h1{
-        font-size: 2.5em;
+        font-size: 2.2em;
+    }
+    .offer-element > img{
+        width:30%;
+        height:auto;
+        transform: scale(0.9);
+    }
+    .offer-element>div>h2{
+        font-size: 1.8em;
+    }
+    .offer-element>div>p{
+        font-size: 0.8em;
+        margin-left: -0.5em;
+    }
+    .offer-element>div{
+        bottom:5em;
+    }
+    #nope{
+        margin-top: 0;
     }
 }
