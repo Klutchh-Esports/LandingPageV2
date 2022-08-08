@@ -50,3 +50,6 @@ img{
         height:130px;
     }
 }
+.blog:hover{
+    cursor:pointer;
+}

@@ -10,7 +10,7 @@ const Footer = () => html
             <li>Home</li>
             <li>About</li>
             <li>FAQs</li>
-            <li>Blogs</li>
+            <li class='blog'>Blogs</li>
             <li>Terms</li>
             <li>Privacy Policy</li>
         </ul>

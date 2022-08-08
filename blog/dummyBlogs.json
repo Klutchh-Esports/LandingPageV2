@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Blog 1 Title for Klutchh",
+    "content": "Blog 1 Content for Klutchh",
+    "author": "Klutchh User",
+    "created_at": "2020-01-01T00:00:00.000Z",
+    "image_url": "https://placehold.it/300x600"
+  },
+  {
+    "title": "Blog 2 Title for Klutchh",
+    "content": "Blog 2 Content for Klutchh",
+    "author": "Klutchh User",
+    "created_at": "2020-01-01T00:00:00.000Z",
+    "image_url": "https://placehold.it/300x600"
+  },
+  {
+    "title": "Blog 3 Title for Klutchh",
+    "content": "Blog 3 Content for Klutchh",
+    "author": "Klutchh User",
+    "created_at": "2020-01-01T00:00:00.000Z",
+    "image_url": "https://placehold.it/300x600"
+  },
+  {
+    "title": "Blog 3 Title for Klutchh",
+    "content": "Blog 3 Content for Klutchh",
+    "author": "Klutchh User",
+    "created_at": "2020-01-01T00:00:00.000Z",
+    "image_url": "https://placehold.it/300x600"
+  },
+  {
+    "title": "Blog 3 Title for Klutchh",
+    "content": "Blog 4 Content for Klutchh",
+    "author": "Klutchh User",
+    "created_at": "2020-01-01T00:00:00.000Z",
+    "image_url": "https://placehold.it/300x600"
+  },
+  {
+    "title": "Blog 4 Title for Klutchh",
+    "content": "Blog 4 Content for Klutchh",
+    "author": "Klutchh User",
+    "created_at": "2020-01-01T00:00:00.000Z",
+    "image_url": "https://placehold.it/300x600"
+  },
+  {
+    "title": "Blog 5 Title for Klutchh",
+    "content": "Blog 5 Content for Klutchh",
+    "author": "Klutchh User",
+    "created_at": "2020-01-01T00:00:00.000Z",
+    "image_url": "https://placehold.it/300x600"
+  }
+]
