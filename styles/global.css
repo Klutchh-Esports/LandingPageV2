@@ -12,7 +12,7 @@
     overflow-x: hidden;
 }
 body{
-    background-color: #071B24;
+    background-color: #000235;
     color:aliceblue;
     display:flex;
     flex-direction: column;
@@ -67,4 +67,45 @@ a{
 }
 .fixed{
     position:fixed;
+}
+#about_us_parent{
+    background: linear-gradient(180deg, #000235 , #000235 50.9%, #000235 97.54%);
+    width:100%;
+    z-index:234;
+}
+#about_us{
+    width:100%;
+    background: url('../images/bg_about2.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#how_to_start{
+    background: url('../images/start_bg.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    padding-left: 2em;
+    padding-top:2em;
+    padding-bottom:2em;
+}
+.glow{
+    position: absolute;
+    width:400px;
+    height:400px;
+    background-color: rgba(240, 248, 255, 0.282);
+    border-radius: 50%;
+    box-shadow:0 0 200px 200px rgba(255, 255, 255, 0.425);
+}
+.glow1{
+    top:-470px;
+    left:100px;
+}
+.glow2{
+    right:-50em;
+    top:20em;
+    z-index:6798;
+    height:200px;
+    width:500px;
+    box-shadow:0 0 20em 20em rgba(255, 255, 255, 0.425);
+
 }

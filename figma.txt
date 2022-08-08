@@ -4249,3 +4249,19 @@ text-transform: capitalize;
 
 color: #FFFFFF;
 
+
+
+
+
+
+
+
+
+/* Rectangle 11858 */
+
+position: absolute;
+width: 1440px;
+height: 772px;
+
+/* Background gradient */
+background: linear-gradient(180deg, rgba(32, 32, 32, 0) -1.15%, rgba(32, 32, 32, 0.410178) 38.9%, rgba(32, 32, 32, 0) 97.54%);
