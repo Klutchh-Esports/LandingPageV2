@@ -70,8 +70,7 @@ img{
 }
 .hidden{
     opacity:0;
-    position:absolute;
-    left:10000px;
+    display:none;
 }
 #ham-burg{
     left:1.2em;
