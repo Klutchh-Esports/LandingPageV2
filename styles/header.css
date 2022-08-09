@@ -3,10 +3,15 @@
     width:90vw;
     margin-left:5vw;
     margin-right: 5vw;
+    overflow:hidden;
 }
 .navbar{
     justify-content: space-between;
     padding:2em 5em 1em 5em;
+}
+.navbar>img{
+    width:272px !important;
+    height:36px !important;
 }
 @media only screen and (max-width:1000px) {
     .navbar > img{
@@ -67,6 +72,10 @@ img{
     }
     .nav-items{
         height:100%;
+    }
+    .navbar>img{
+        width:272px !important;
+        height:48px !important;
     }
 }
 .blog:hover{

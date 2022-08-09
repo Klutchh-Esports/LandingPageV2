@@ -5,13 +5,15 @@
 }
 #make_the_move>div>h1{
     font-size: 4em;
-    margin-bottom: 0.8em;
+}
+.bigger{
+    font-size:5em !important;
 }
 #make_the_move>div>button{
     width: 30%;
     align-self: center;
     margin-top: 1.5em;
-    margin-bottom: 12em;
+    margin-bottom: 2em;
     font-size: 1.5em;
     padding:0.7em;
 }
@@ -33,9 +35,20 @@
 }
 @media screen and (max-width:600px){
     #make_the_move>div>h1{
-        font-size: 2.5em;
+        font-size: 1.4em;
     }
     #make_the_move>div>img{
         width:50%;
+    }
+    .bigger{
+        font-size:2em !important;
+    }
+    #make_the_move>div>button{
+    width:fit-content;
+    padding:0.4em;
+    font-size:1.2em;
+    }
+    .qr{
+        transform:translateY(-3.5em);
     }
 }

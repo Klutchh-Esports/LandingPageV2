@@ -20,9 +20,6 @@
     padding-bottom: 1em;
     font-size:1.4em;
 }
-.hero_cont> div> div>img:hover{
-    transform: scale(1.015);
-}
 @media only screen and (max-width:1400px) {
     .hero_cont>img{
         width:35vw;
@@ -37,6 +34,7 @@
     }
     .hero_cont{
         margin-left:1.7em;
+        text-align:center;
     }
 }
 @media only screen and (max-width:600px) {
@@ -44,6 +42,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        text-align:center;
         margin-left:0;
     }
     .hero_cont>img{

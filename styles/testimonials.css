@@ -1,7 +1,6 @@
 #testimonials{
-    margin-top:8em;
     margin-bottom:8em;
-    padding:10px;
+    width:70vw;
 }
 #testimonials > h1{
     text-align: center;
@@ -13,13 +12,15 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: minmax(100px, auto);
+    gap:-4em;
 }
 .testimonials-element{
     margin:auto;
 }
 .testimonials-element > img{
-    width:450px;
+    width:440px;
     height:auto;
+    padding:0;
 }
 @media screen and (max-width:1000px){
     #testimonials > h1{
@@ -41,5 +42,9 @@
     .testimonials-element > img{
         width:360px;
         height:auto;
+    }
+    #testimonials{
+        margin-bottom:8em;
+        width:100vw;
     }
 }

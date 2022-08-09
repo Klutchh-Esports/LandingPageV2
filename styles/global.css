@@ -19,6 +19,10 @@ body, #body-child , .hidden{
     flex-direction: column;
     align-items: center;
 }
+#about_us, #hero, #how_to_start{
+    padding-left:1em;
+    padding-right:1em;
+}
 .hidden{
     opacity:0;
     position:absolute;
@@ -92,8 +96,7 @@ a{
     background-size: cover;
     width:100%;
     padding-left: 2em;
-    padding-top:2em;
-    padding-bottom:2em;
+    margin-bottom:-5em;
 }
 .glow{
     position: absolute;
@@ -121,4 +124,17 @@ a{
     padding:0;
     width:100%;
     height:auto;
+}
+#testimonials-container{
+    background-image: url("../images/test_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    margin:auto;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero-d:hover{
+    cursor: pointer;
 }

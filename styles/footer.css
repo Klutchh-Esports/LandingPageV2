@@ -1,5 +1,5 @@
 #footer{
-    width:90%;
+    width:100%;
 }
 #footer>div>div{
     justify-content: space-between;
@@ -15,15 +15,15 @@
 .footer-list{
     margin:auto;
     align-self: center;
-    margin-left: 4em;
+    margin-left: 3.5em;
     z-index:101;
     min-width:500px;
 }
 .footer-list>li{
-    padding:1em;
+    padding:0.5em;
 }
 .footer-logo{
-    width:50%;
+    width:40%;
     height:auto;
 }
 #footer>div>div{
@@ -34,8 +34,15 @@
 }
 .footer-downloader{
     align-self: center;
-    justify-content: center;
+    justify-content: right;
+    width:100%;
     /* margin:auto; */
+}
+.one , .two{
+    font-size:10px;
+}
+.one{
+    padding:10px;
 }
 @media screen and (max-width:1000px){
     #footer>div>div{
@@ -80,22 +87,29 @@
     }
     .download{
         width:35em;
-        align-self: center;
-        margin-left: -2em;
+        transform:translateX(-100px);
         margin-bottom: 3em;
     }
     .social-icons{
         align-self: center;
-    }
-    .footer-list{
-        flex-direction: column;
     }
     #footer>div>div>div, .footer-logo{
         align-self: center;
         text-align: center;
     }
     .footer-list{
-        margin:auto;
+        max-width:44vw;
+        display:grid;
+        grid-template-columns: repeat(2, 0.3fr);
+        margin:0;
+        text-align: center;
+        margin-left:50vw;
+    }
+    .footer-list>li{
+        padding:0;
+        margin:0;
+        text-align: center;
+        padding-top:20px;
     }
 }
 .blog_footer:hover , .social-icons:hover{

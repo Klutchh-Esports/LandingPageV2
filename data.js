@@ -43,7 +43,7 @@ export const whatWeOffer = [
         description:'We feature multiple esports titles like Valorant, PUBGM, CS:GO and this list is always growing.'
     },
     {
-        title:'Safe Withdrawls',
+        title:'Safe Withdrawals',
         image:'../images/what_we_offer/safe.png',
         description:'Easily withdraw your cash using UPI or direct bank transfers.'
     },

@@ -2,12 +2,12 @@ import {html,render} from '../getLitHTML.js'
         // Define a template
 const myTemplate = () => html
     `<div class='navbar flex'>
-        <img src='../images/klutchh2.png' alt='klutchh logo' />
+        <img src='../images/klutchh2.png' alt='klutchh logo'/>
         <ul class='nav-items'>
         <li><a href="#" >HOME</a></li>
         <li><a href="#about_us" >ABOUT</a></li>
         <li><a href="https://klutchh.notion.site/FAQs-e321c5092f8047ff82c8d61299613259" target="_blank" rel="noopener noreferrer">FAQs</a></li>
-        <li class='blog'>BLOG</li>
+        <li class='blog'>BLOGS</li>
         </ul>
         <button id="get-started">GET STARTED</button>
         <div class='hidden absolute' id='ham-burg' width='1.2em' height='1.2em'><img src="https://img.icons8.com/ios-filled/20/ffffff/menu--v1.png"/></div>
