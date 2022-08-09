@@ -10,7 +10,7 @@ const myTemplate = () => html
         <li class='blog'>BLOG</li>
         </ul>
         <button id="get-started">GET STARTED</button>
-        <button class='hidden absolute' id='ham-burg' width='1.2em' height='1.2em'><img src="https://img.icons8.com/ios-filled/20/ffffff/menu--v1.png"/></button>
+        <div class='hidden absolute' id='ham-burg' width='1.2em' height='1.2em'><img src="https://img.icons8.com/ios-filled/20/ffffff/menu--v1.png"/></div>
     </div> `;
         // Render the template to the document
 render(myTemplate(), document.querySelector('#header'));

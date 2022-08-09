@@ -7,7 +7,7 @@ const myTemplate = () => html
     <button class='get-started'>Get Started</button>
     <h1>Scan To
     <span class='text-klutchh-purple'>Download The App</span></h1>
-    <img src='../images/QR.png' alt='qr code'/>
+    <img class='qr' src='../images/QR.png' alt='qr code'/>
     </div> `;
         // Render the template to the document
 render(myTemplate(), document.querySelector('#make_the_move'));

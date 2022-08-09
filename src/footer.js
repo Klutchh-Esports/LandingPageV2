@@ -23,8 +23,7 @@ const Footer = () => html
                 <img class='linkedin' src='../images/social_media/Linkedin.png' alt='linkedin' /> </a>
                 <img class='discord' src='../images/social_media/Discord.png' alt='discord' /> </a>
             </div>
-        <div class='flex download footer-downloader'> 
-            <img width='30%' src='../images/GetAppIcons/app_store.png' alt='ios' />
+        <div class='flex download footer-downloader'>
             <img width='30%' src='../images/GetAppIcons/android.png' alt='android' />
             <img width='30%' src='../images/GetAppIcons/webapp.png' alt='web' />
         </div>

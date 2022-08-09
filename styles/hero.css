@@ -12,6 +12,13 @@
 .hero_cont > img{
     width:33vw;
     height:35%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.hero_cont>div>p{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size:1.4em;
 }
 .hero_cont> div> div>img:hover{
     transform: scale(1.015);
@@ -28,12 +35,16 @@
     .hero_cont > div>h1{
         font-size: 3.4em;
     }
+    .hero_cont{
+        margin-left:1.7em;
+    }
 }
 @media only screen and (max-width:600px) {
     .hero_cont{
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        margin-left:0;
     }
     .hero_cont>img{
         width:75vw;
@@ -53,6 +64,13 @@
         font-size: 3em;
     }
     .hero_cont>div>h1 , p{
-        padding-left: 7px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
+    .hero_cont>div>p{
+        font-size:1em;
+        padding-top:2em;
+        padding-bottom:2em;
+    }
+    
 }

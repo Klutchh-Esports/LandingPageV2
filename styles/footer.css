@@ -32,6 +32,11 @@
     padding-top: 3em;
     padding-bottom: 3em;
 }
+.footer-downloader{
+    align-self: center;
+    justify-content: center;
+    /* margin:auto; */
+}
 @media screen and (max-width:1000px){
     #footer>div>div{
         flex-direction: column-reverse;
@@ -74,9 +79,9 @@
         height:auto;
     }
     .download{
-        width:30em;
+        width:35em;
         align-self: center;
-        margin-left: 3em;
+        margin-left: -2em;
         margin-bottom: 3em;
     }
     .social-icons{

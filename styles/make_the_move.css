@@ -4,24 +4,31 @@
     padding:20px;
 }
 #make_the_move>div>h1{
-    font-size: 3.5em;
+    font-size: 4em;
+    margin-bottom: 0.8em;
 }
 #make_the_move>div>button{
-    width:fit-content;
+    width: 30%;
     align-self: center;
     margin-top: 1.5em;
-    margin-bottom: 1.5em;
-    font-size: 1.2em;
+    margin-bottom: 12em;
+    font-size: 1.5em;
+    padding:0.7em;
 }
 #make_the_move>div>img{
-    width:50%;
+    width:40%;
     align-self: center;
-    margin-top: 15px;
+    margin-top: 5em;
+    margin-bottom: 5em;
     border-radius: 20px;
 }
+
 @media screen and (max-width:1000px){
     #make_the_move>div>h1{
         font-size: 3em;
+    }
+    #make_the_move>div>button{
+        width:fit-content;
     }
 }
 @media screen and (max-width:600px){

@@ -1,15 +1,17 @@
 #what_we_offer{
-    margin-top:8em;
+    margin-top:4em;
+    margin-bottom:5em;
 }
 #what_we_offer > h1{
     text-align: center;
     padding:20px;
-    font-size: 3.5em;
+    font-size: 4.2em;
+    margin-bottom: 1.5em;
 }
 .offer-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    gap: 5em;
     grid-auto-rows: minmax(100px, auto);
 }
 .offer-element{
