@@ -1,6 +1,8 @@
 #header{
     height:100px;
-    width:100vw;
+    width:90vw;
+    margin-left:5vw;
+    margin-right: 5vw;
 }
 .navbar{
     justify-content: space-between;
@@ -41,7 +43,8 @@ img{
     margin:0.5em 1em 0 1em;
 }
 .navbar > img{
-    width:300px;
+    width:330px;
+    height:auto;
     padding-left: 10px;
     padding-right: 10px;
 }

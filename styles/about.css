@@ -27,6 +27,9 @@
     border-style:solid;
     border-image:linear-gradient(to bottom,white,black) 1 100%; 
 }
+.metrics , .met-parent{
+    border-radius: 10px;
+}
 .metrics>div{
     padding:5px;
 }
