@@ -11,12 +11,17 @@
     max-width:100vw;
     overflow-x: hidden;
 }
-body{
+body, #body-child , .hidden{
     background-color: #000235;
     color:aliceblue;
     display:flex;
     flex-direction: column;
     align-items: center;
+}
+.hidden{
+    opacity:0;
+    position:absolute;
+    left:10000px;
 }
 button{
     background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
@@ -108,4 +113,10 @@ a{
     width:500px;
     box-shadow:0 0 20em 20em rgba(255, 255, 255, 0.425);
 
+}
+#body-child{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:auto;
 }

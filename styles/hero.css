@@ -1,14 +1,13 @@
 .hero_cont{
     margin-top:1.5em;
+    align-items: center;
+    justify-content: center;
 }
 .hero_cont > div >div{
     margin-top:1.5em;
 }
 .hero_cont > div>h1{
-    font-size: 4.3em;
-}
-.hero_cont>div{
-    margin-top: 2em;
+    font-size: 4.8em;
 }
 .hero_cont > img{
     width:33vw;
