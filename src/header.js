@@ -10,6 +10,7 @@ const myTemplate = () => html
         <li class='blog'>BLOG</li>
         </ul>
         <button>GET STARTED</button>
+        <button class='hidden absolute' id='ham-burg' width='1.6em' height='1.6em'><img src="https://img.icons8.com/ios-filled/30/ffffff/menu--v1.png"/></button>
     </div> `;
         // Render the template to the document
 render(myTemplate(), document.querySelector('#header'));
@@ -17,3 +18,19 @@ render(myTemplate(), document.querySelector('#header'));
 document.querySelector('.blog').onclick = function(){
     window.location.href = "./blog/blog.html";
 }
+const nav = document.querySelector('.nav-items');
+const ham = document.getElementById("ham-burg");
+if(window.matchMedia( "(max-width:1000px)").matches){
+    nav.classList.add('hidden');
+    ham.classList.remove('hidden');
+}
+ham.addEventListener('click',()=>{
+    if(nav.classList.contains("hidden")) {
+        nav.classList.remove('hidden');
+        ham.innerHTML = '<img src="https://img.icons8.com/ios-filled/30/ffffff/back.png"/>'
+    }
+    else{
+        nav.classList.add('hidden');
+        ham.innerHTML = '<img src="https://img.icons8.com/ios-filled/30/ffffff/menu--v1.png"/>'
+    }
+})

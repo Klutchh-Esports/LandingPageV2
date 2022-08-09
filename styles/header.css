@@ -7,18 +7,30 @@
     padding:2em 5em 1em 5em;
 }
 @media only screen and (max-width:1000px) {
-    .nav-items{
-        position:absolute;
-        left:-10000px;
-        opacity:none;
-    }
-    .navbar{
-        padding-top:2em;
-        padding-left:2em;
-    }
     .navbar > img{
+        position: relative;
         align-self: left;
         transform:scale(0.8);
+        z-index:3465;
+    }
+    .nav-items{
+        position:absolute;
+        display: flex;
+        flex-direction: column;
+        background-color: black;
+        width:100vw;
+        height:90vh;
+        margin:0;
+        padding:0;
+        top:0;left:0;
+        padding-top:9em;
+        transition:0.3s;
+    }
+    .nav-items>li{
+        align-self: center;
+        place-items: center;
+        top:1em;
+        padding: 1em;
     }
 }
 img{
@@ -49,7 +61,20 @@ img{
     #header{
         height:130px;
     }
+    .nav-items{
+        height:100%;
+    }
 }
 .blog:hover{
     cursor:pointer;
+}
+.hidden{
+    opacity:0;
+    position:absolute;
+    left:10000px;
+}
+#ham-burg{
+    left:1.2em;
+    top:2.5em;
+    transition: 0.4s;
 }
