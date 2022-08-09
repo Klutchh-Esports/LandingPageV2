@@ -10,7 +10,7 @@ const myTemplate = () => html
         <li class='blog'>BLOG</li>
         </ul>
         <button id="get-started">GET STARTED</button>
-        <button class='hidden absolute' id='ham-burg' width='1.6em' height='1.6em'><img src="https://img.icons8.com/ios-filled/30/ffffff/menu--v1.png"/></button>
+        <button class='hidden absolute' id='ham-burg' width='1.2em' height='1.2em'><img src="https://img.icons8.com/ios-filled/20/ffffff/menu--v1.png"/></button>
     </div> `;
         // Render the template to the document
 render(myTemplate(), document.querySelector('#header'));
@@ -30,10 +30,10 @@ if(window.matchMedia( "(max-width:1000px)").matches){
 ham.addEventListener('click',()=>{
     if(nav.classList.contains("hidden")) {
         nav.classList.remove('hidden');
-        ham.innerHTML = '<img src="https://img.icons8.com/ios-filled/30/ffffff/back.png"/>'
+        ham.innerHTML = '<img src="https://img.icons8.com/ios-filled/20/ffffff/back.png"/>'
     }
     else{
         nav.classList.add('hidden');
-        ham.innerHTML = '<img src="https://img.icons8.com/ios-filled/30/ffffff/menu--v1.png"/>'
+        ham.innerHTML = '<img src="https://img.icons8.com/ios-filled/20/ffffff/menu--v1.png"/>'
     }
 })

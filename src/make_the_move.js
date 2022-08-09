@@ -13,4 +13,4 @@ const myTemplate = () => html
 render(myTemplate(), document.querySelector('#make_the_move'));
 document.querySelector('.get-started').onclick = function(){
         window.location.href = "https://app.klutchh.in/";
-    }
+}
