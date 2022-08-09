@@ -37,7 +37,7 @@
       href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
       rel="stylesheet"
     />
-    <link rel="icon" href="favicon.png" type="image/x-icon" />
+    <link rel="icon" href="../favicon.ico" type="image/x-icon" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
       async
@@ -104,9 +104,13 @@
   <body id="top">
     <header id="header">
       <div class="header-logo">
-        <a href="index.html">Klutchh</a>
+        <a>Klutchh</a>
       </div>
-
+<script>
+  document.querySelector('.header-logo').onclick = function(){
+    window.location.href = "../index.html";
+}
+</script>
       <nav id="header-nav-wrap">
         <ul class="header-main-nav">
           <li class="current">

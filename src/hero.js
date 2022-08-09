@@ -8,8 +8,8 @@ const myTemplate = () => html
             <h1 class='text-klutchh-purple'>To Klutchh?</h1>
             <p>India’s Fastest Growing Esports Fantasy Platform.<br />
             For the gamers by the gamers.</p>
-            <div class='flex'>
-                <img width='30%' src='../images/GetAppIcons/app_store.png' alt='ios' />
+            <div class='flex hero-downloader'>
+                <img width='30%' src='../images/GetAppIcons/app_store.png' alt='ios'/>
                 <img width='30%' src='../images/GetAppIcons/android.png' alt='android' />
                 <img width='30%' src='../images/GetAppIcons/webapp.png' alt='web' />
             <div>
@@ -17,3 +17,6 @@ const myTemplate = () => html
     </div> `;
         // Render the template to the document
 render(myTemplate(), document.querySelector('#hero'));
+document.querySelector(".hero-downloader").onclick = function(){
+    location.href = "#make_the_move";
+}
