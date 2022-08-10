@@ -4,6 +4,7 @@ import {whatWeOffer as data} from '../data.js'
 const containerElement =()=>
 html`
 <h1>What We <span class='text-klutchh-purple'>Offer<span></h1>
+<img src="../images/glow2.png" alt='' class="absolute left-0" />
 <div class='offer-container'>
 ${data.map(
         (item)=>html`

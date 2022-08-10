@@ -20,6 +20,9 @@
     padding-bottom: 1em;
     font-size:1.4em;
 }
+#hero>img{
+    z-index:10000000;
+}
 @media only screen and (max-width:1400px) {
     .hero_cont>img{
         width:35vw;

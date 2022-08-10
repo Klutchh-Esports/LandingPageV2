@@ -3,11 +3,16 @@
     margin-top:0 !important;
     margin-bottom:5em;
 }
+#what_we_offer>img{
+    transform: translateY(-50vh);
+    z-index:-10;
+}
 #what_we_offer > h1{
     text-align: center;
     padding:20px;
     font-size: 4rem;
     margin-bottom: 1em;
+    z-index:10;
 }
 .offer-container{
     display: grid;
@@ -34,6 +39,7 @@
 }
 .offer-element>img{
     right:1em;
+    top:10px;
 }
 
 @media screen and (max-width:1000px){
@@ -50,14 +56,13 @@
 @media screen and (max-width:600px){
     .offer-element{
         margin:auto;
-        margin-left: 1.1em;
-        margin-right: 1.5em;
         margin-top: 25px;
         transform: scale(1.1);
     }
     .offer-container{
         height:auto;
         overflow-y: hidden;
+        gap:1em;
     }
     #what_we_offer > h1{
         font-size: 2.5em;

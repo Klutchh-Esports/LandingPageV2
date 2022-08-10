@@ -1,7 +1,9 @@
 import {html, render} from '../getLitHTML.js'
         // Define a template
 const myTemplate = () => html
-    `<div class='hero_cont flex'>
+    ` 
+<img src="../images/glow4.png" alt='' class="absolute right-0" />
+    <div class='hero_cont flex'>
         <img src='../images/logo_hero.png' alt='logo' />
         <div>
             <h1>Are You Ready</h1>

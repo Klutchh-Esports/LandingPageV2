@@ -21,7 +21,7 @@ export const howToStart = [
     },
     {
         title:'Pay To Enter',
-        description:'Pay the minimum amount and enter. Entries start from INR 5.',
+        description:`Pay the minimum amount and enter. Entries start from INR 5.`,
         image:'../images/how_to_start_icons/pay_to_enter.png'
     },
     {
