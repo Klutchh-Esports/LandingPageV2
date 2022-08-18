@@ -7,12 +7,12 @@ const Footer = () => html
       <div class='flex flex-col' >
         <img class='footer-logo' alt='logo' src='../images/klutchh.png'/>
         <ul class='footer-list'>
-            <li><a href="#header">Home</a></li>
-            <li><a href="#about_us">About</a></li>
-            <li><a href="https://klutchh.notion.site/FAQs-e321c5092f8047ff82c8d61299613259" target="_blank" rel="noopener noreferrer">FAQs</a></li>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../index.html#about_us">About</a></li>
+            <li><a href="../faqs/faq.html" target="_blank" rel="noopener noreferrer">FAQs</a></li>
             <li class='blog-footer'>Blogs</li>
-            <li><a href="https://www.notion.so/Terms-Of-Use-19e681a6a540439e9acf944a7a3c7172" target="_blank" rel="noopener noreferrer">Terms</a></li>
-            <li><a href="https://www.notion.so/Privacy-Policies-3d57b50903874918a63089fdb796ac89" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
+            <li class='terms'>Terms</li>
+            <li class="privacy" >Privacy Policy</li>
         </ul>
         </div>
         <div class='flex flex-col'>
@@ -24,8 +24,8 @@ const Footer = () => html
                 <img class='discord' src='../images/social_media/Discord.png' alt='discord' /> </a>
             </div>
         <div class='flex download footer-downloader'>
-            <img width='30%' src='../images/GetAppIcons/android.png' alt='android' />
-            <img width='30%' src='../images/GetAppIcons/webapp.png' alt='web' />
+            <img class="app-down" width='30%' src='../images/GetAppIcons/android.png' alt='android' />
+            <img class="web-open" width='30%' src='../images/GetAppIcons/webapp.png' alt='web' />
         </div>
         </div>
     </div>
@@ -36,13 +36,55 @@ const Footer = () => html
     </div>
 </div>
  `;
-        // Render the template to the document
 render(Footer(), document.querySelector('#footer'));
-document.querySelector('.blog-footer').onclick = function(){
-    window.location.href = "./blog/blog.html";
+
+document.querySelector('.footer-logo').onclick = function(){
+    if(window.location.pathname === '/index.html' ||  window.location.pathname === '/' || window.location.pathname === ''){
+        window.location.href = "./index.html";
+    }
+    else{
+        window.location.href = "../index.html";
+    }
 }
-document.querySelector(".footer-downloader").onclick = function(){
-    location.href = "#make_the_move";
+
+document.querySelector('.blog-footer').onclick = function(){
+    if(window.location.pathname === '/index.html' ||  window.location.pathname === '/' || window.location.pathname === ''){
+        window.location.href = "./blog/blog.html";
+    }
+    else{
+        window.location.href = "../blog/blog.html";
+    }
+}
+document.querySelector('.privacy').onclick = function(){
+    if(window.location.pathname === '/index.html' ||  window.location.pathname === '/' || window.location.pathname === ''){
+        window.location.href = "./privacy/privacy.html";
+    }
+    else{
+        window.location.href = "../privacy/privacy.html";
+    }
+}
+document.querySelector('.terms').onclick = function(){
+    if(window.location.pathname === '/index.html' ||  window.location.pathname === '/' || window.location.pathname === ''){
+        window.location.href = "./terms/terms.html";
+    }
+    else{
+        window.location.href = "../terms/terms.html";
+    }
+}
+document.querySelector(".app-down").onclick = function(){
+    customAlert('Downloading Klutchh App...');
+    setTimeout( ()=>{
+        location.href = "https://cdn.klutchh.in/klutchh-v1.0.2.apk";
+    },500)
+}
+document.querySelector(".web-open").onclick = function(){
+    customAlert('Launching Kluchh WebApp...');
+    setTimeout(()=>{
+        window.open(
+            'https://app.klutchh.in/',
+            '_blank'
+          );
+    },1000);
 }
 document.querySelector(".facebook").onclick = function(){
     window.location.href = "https://www.facebook.com/klutchh.in";

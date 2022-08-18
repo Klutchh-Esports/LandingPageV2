@@ -1,11 +1,11 @@
 #what_we_offer{
     padding-top:0 !important;
-    margin-top:0 !important;
+    margin-top:150px !important;
     margin-bottom:5em;
 }
 #what_we_offer>img{
     transform: translateY(-50vh);
-    z-index:-10;
+    z-index:10;
 }
 #what_we_offer > h1{
     text-align: center;
@@ -26,6 +26,7 @@
     background-image: url('../images/what_we_offer/what_we_offer_card.png');
     background-repeat: no-repeat;
     background-size: contain;
+    overflow: hidden !important;
 }
 .offer-element > div{
     position: absolute;

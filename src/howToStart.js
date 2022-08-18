@@ -2,11 +2,11 @@ import {html, render} from '../getLitHTML.js'
 import {howToStart as data} from '../data.js'
 
 const containerElement =()=>
-html`<h1>How To <span class='text-klutchh-purple'>Start<span></h1>
+html`<h1 class="reveal" >How To <span class='text-klutchh-purple'>Start<span></h1>
 <div class='start-container'>
 ${data.map(
         (item)=>html`
-    <div class='start-element flex'>
+    <div class='start-element flex fade'>
         <img src=${item.image} alt='step 1 sign up' />
         <div class='flex flex-col'>
             <h2>${item.title}</h2>

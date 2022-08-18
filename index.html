@@ -33,15 +33,16 @@
     </div>
     <div id="hero"></div>
     
-    <div id="about_us_parent"><div id="about_us"></div></div>
-    <div id="battlegrounds"></div>
-    <div id="how_to_start"></div>
-    <div id="what_we_offer"></div>
-    <div id="testimonials-container"> <div id="testimonials"></div> </div>
-    <div id="make_the_move"></div>
+    <div class="paralax p-2 mt-2" id="about_us_parent"><div id="about_us"></div></div>
+    <div class="reveal" id="battlegrounds"></div>
+    <div class="paralax" id="how_to_start"></div>
+    <div class="p-2" id="what_we_offer"></div>
+    <div class="paralax" id="testimonials-container"> <div id="testimonials"></div> </div>
+    <div class="reveal" id="make_the_move"></div>
 
     <footer id="footer"></footer>
-
+    
+    <script src="alert-box.js"></script>
     <script type="module" src="./src/header.js" ></script>
     <script type="module" src="./src/hero.js" ></script>
     <script type="module" src="./src/aboutus.js" ></script>
@@ -51,6 +52,63 @@
     <script type="module" src="./src/testimonials.js" ></script>
     <script type="module" src="./src/make_the_move.js" ></script>
     <script type="module" src="./src/footer.js" ></script>
+    <script>
+      function reveal() {
+        var reveals = document.querySelectorAll(".reveal");
+        for (var i = 0; i < reveals.length; i++) {
+          var windowHeight = window.innerHeight;
+          var elementTop = reveals[i].getBoundingClientRect().top;
+          var elementVisible = 130;
+          if (elementTop < windowHeight - elementVisible) {
+            reveals[i].classList.add("active");
+          } else {
+            reveals[i].classList.remove("active");
+          }
+        }
+      }
+      window.addEventListener("scroll", reveal);
+
+      function fade() {
+        var fades = document.querySelectorAll(".fade");
+        for (var i = 0; i < fades.length; i++) {
+          var windowHeight = window.innerHeight;
+          var elementTop = fades[i].getBoundingClientRect().top;
+          var elementVisible = 200;
+          if (elementTop < windowHeight - elementVisible) {
+            fades[i].classList.add("active");
+          } else {
+            fades[i].classList.remove("active");
+          }
+        }
+      }
+      window.addEventListener("scroll", fade);
+
+      function paralax() {
+        var paralax = document.querySelectorAll(".paralax");
+        for (var i = 0; i < paralax.length; i++) {
+          var windowHeight = window.innerHeight;
+          var elementTop = paralax[i].getBoundingClientRect().top;
+          var elementVisible = 130;
+          if (elementTop < windowHeight - elementVisible) {
+            paralax[i].classList.add("activePARA");
+          } else {
+            paralax[i].classList.remove("activePARA");
+          }
+        }
+      }
+      window.addEventListener("scroll", paralax);
+
+      const heroAnim =()=>{
+        var heroText = document.querySelectorAll(".heroAnimation")
+        heroText.forEach( (single)=>{
+          single.classList.add("active")
+        })
+      }
+      window.addEventListener("load", heroAnim);
+      
+
+      
+    </script>
 
 </body>
 </html>

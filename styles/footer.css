@@ -11,6 +11,7 @@
     padding:0.5em;
     width:5.6em;
     height:auto;
+    cursor:url("../images/hand.png"),auto;
 }
 .footer-list{
     margin:auto;
@@ -21,6 +22,7 @@
 }
 .footer-list>li{
     padding:0.5em;
+    cursor:url("../images/hand.png"),auto !important;
 }
 .footer-logo{
     width:40%;
@@ -36,7 +38,7 @@
     align-self: center;
     justify-content: right;
     width:100%;
-    /* margin:auto; */
+    cursor:url("../images/hand.png"),auto;
 }
 .one , .two{
     font-size:10px;
@@ -112,6 +114,6 @@
         padding-top:20px;
     }
 }
-.blog_footer:hover , .social-icons:hover{
-    cursor:pointer;
+.blog_footer:hover , .social-icons:hover, .footer-list>li>a:hover{
+    cursor:url("../images/hand.png"),auto;;
 }

@@ -1,12 +1,12 @@
 import {html, render} from '../getLitHTML.js';
         // Define a template
 const myTemplate = () => html
-    `<div class='about_section flex flex-col align-center'>
-        <h1> About <span class='text-klutchh-purple'>Us</span></h1>
-        <p>Create your own team, choose from the best players across the globe & win real-time money!
+    `<div class='about_section flex flex-col align-center p-2'>
+        <h1 class="reveal"> About <span class='text-klutchh-purple'>Us</span></h1>
+        <p class="reveal">Create your own team, choose from the best players across the globe & win real-time money!
         Become a part of the Klutchh community and stay updated about the biggest gaming events held globally.</p>
-        <img src='../images/mockup2.png' alt='klutchh app mockup' />
-        <div class='met-parent'><div class='metrics flex' >
+        <img src='../images/mockup2.png' alt='klutchh app mockup' class="reveal"/>
+        <div class='met-parent fade'><div class='metrics flex' >
             <div class='flex'>
                 <img src='../images/met/1.png' alt='' />
                 <div class='flex flex-col'> 

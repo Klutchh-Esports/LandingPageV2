@@ -2,6 +2,8 @@
     margin-top:1.5em;
     align-items: center;
     justify-content: center;
+    overflow-y: hidden;
+    height:fit-content;
 }
 .hero_cont > div >div{
     margin-top:1.5em;
