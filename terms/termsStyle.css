@@ -13,6 +13,9 @@ p{
 .para1{
     width:70%;
     margin:auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 @media screen and (max-width:600px) {
     h1{

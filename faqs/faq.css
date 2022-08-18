@@ -1,0 +1,57 @@
+
+  h1 {
+    line-height: 1.2;
+    margin-bottom: 40px;
+  }
+  main {
+    width: 50vw;
+    margin: 0 auto;
+  }
+  details{
+      border-radius: 5px;
+      margin-bottom:20px;
+  }
+  summary {
+    font-size: 1.25rem;
+    font-weight: 600;
+    background: radial-gradient(86.93% 86.93% at 50% 11.02%, #000235 0%, #000117 100%);
+    color: #333;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    outline: none;
+    text-align: left;
+    cursor: url("../images/hand.png");
+    position: relative;
+    color:white;
+    border-width:1px;
+    border-style:solid;
+    border-image:linear-gradient(to bottom,white,black) 1; 
+    border-radius: 13px !important;
+  }
+  details[open] summary ~ * {
+    animation: sweep .5s ease-in-out;
+    margin-bottom:60px;
+    margin-top:15px;
+    transition:0.8s all ease;
+  }
+  @keyframes sweep {
+    0%    {opacity: 0; margin-top: -10px}
+    50%    {opacity: 0.4; margin-top: -6px}
+    100%  {opacity: 1; margin-top: 0px}
+  }
+  details > summary::after {
+    position: absolute;
+    content: "+";
+    right: 20px;
+  }
+  details[open] > summary::after {
+    position: absolute;
+    content: "-";
+    right: 20px;
+  }
+  details > summary::-webkit-details-marker {
+    display: none;
+  }
+  li{
+      padding:7px;
+  }

@@ -57,13 +57,13 @@ ham.addEventListener('click',()=>{
     if(nav.classList.contains("hidden")) {
         nav.classList.remove('hidden');
         ham.style.marginLeft='30px';
-        ham.innerHTML = '<img src="https://img.icons8.com/ios-filled/20/ffffff/back.png"/>'
+        ham.innerHTML = '<img src="../images/back.png"/>'
         navbar.classList.add("no-touch");
     }
     else{
         nav.classList.add('hidden');
         ham.style.marginLeft='15px';
-        ham.innerHTML = '<img src="https://img.icons8.com/ios-filled/20/ffffff/menu--v1.png"/>'
+        ham.innerHTML = '<img src="../images/menu--v1.png"/>'
         navbar.classList.remove("no-touch");
     }
 })
