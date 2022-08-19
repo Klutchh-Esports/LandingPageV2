@@ -26,24 +26,21 @@ document.querySelector('.header-logo').onclick = function(){
 
 document.querySelector('.blog').onclick = function(){
     customAlert('Launching Kluchh Blogs...');
-    setTimeout( ()=>{
         if(window.location.pathname === '/index.html' ||  window.location.pathname === '/' || window.location.pathname === ''){
             window.location.href = "./blog/blog.html";
         }
         else{
             window.location.href = "../blog/blog.html";
         }
-    },500)
+    
 }
 
 document.querySelector('#get-started').onclick = function(){
     customAlert('Launching Kluchh WebApp...');
-    setTimeout(()=>{
         window.open(
             'https://app.klutchh.in/',
             '_blank' // <- This is what makes it open in a new window.
           );
-    },1000);
 }
 const nav = document.querySelector('.nav-items');
 const navbar = document.querySelector('.navbar');

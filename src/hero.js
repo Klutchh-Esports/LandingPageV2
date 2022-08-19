@@ -27,10 +27,8 @@ document.querySelector(".hero-downloader").onclick = function(){
 document.querySelector(".hero-web").onclick = function(){
     // location.href = "https://app.klutchh.in/";
     customAlert('Launching Kluchh WebApp...');
-    setTimeout(()=>{
         window.open(
             'https://app.klutchh.in/',
-            '_blank' // <- This is what makes it open in a new window.
+            '_blank'
           );
-    },1000);
 }

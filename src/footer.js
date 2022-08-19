@@ -73,18 +73,14 @@ document.querySelector('.terms').onclick = function(){
 }
 document.querySelector(".app-down").onclick = function(){
     customAlert('Downloading Klutchh App...');
-    setTimeout( ()=>{
         location.href = "https://cdn.klutchh.in/klutchh-v1.0.2.apk";
-    },500)
 }
 document.querySelector(".web-open").onclick = function(){
     customAlert('Launching Kluchh WebApp...');
-    setTimeout(()=>{
         window.open(
             'https://app.klutchh.in/',
             '_blank'
           );
-    },1000);
 }
 document.querySelector(".facebook").onclick = function(){
     window.location.href = "https://www.facebook.com/klutchh.in";
