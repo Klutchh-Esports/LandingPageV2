@@ -88,7 +88,7 @@
         for (var i = 0; i < paralax.length; i++) {
           var windowHeight = window.innerHeight;
           var elementTop = paralax[i].getBoundingClientRect().top;
-          var elementVisible = 130;
+          var elementVisible = 100;
           if (elementTop < windowHeight - elementVisible) {
             paralax[i].classList.add("activePARA");
           } else {

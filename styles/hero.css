@@ -23,11 +23,21 @@
     font-size:1.4em;
 }
 #hero>img{
-    z-index:10000000;
+    z-index:100000;
 }
-@media only screen and (max-width:1400px) {
+#hero{
+    padding-top: 30px;
+}
+.hero-d>img{
+    z-index: 100000001;
+    order:2;
+}
+@media only screen and (max-width:1600px) {
     .hero_cont>img{
         width:35vw;
+    }
+    #hero{
+        padding-top: 60px;
     }
 }
 @media only screen and (max-width:1000px) {

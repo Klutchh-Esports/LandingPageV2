@@ -12,10 +12,8 @@ const myTemplate = () => html
 render(myTemplate(), document.querySelector('#make_the_move'));
 document.querySelector('.get-started').onclick = function(){
         customAlert('Launching Kluchh WebApp...');
-        setTimeout(()=>{
             window.open(
                 'https://app.klutchh.in/',
-                '_blank' // <- This is what makes it open in a new window.
+                '_blank' 
               );
-        },100);
     }

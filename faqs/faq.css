@@ -1,7 +1,7 @@
 
   h1 {
     line-height: 1.2;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
   }
   main {
     width: 50vw;
@@ -9,7 +9,6 @@
   }
   details{
       border-radius: 5px;
-      margin-bottom:20px;
   }
   summary {
     font-size: 1.25rem;
@@ -30,7 +29,7 @@
   }
   details[open] summary ~ * {
     animation: sweep .5s ease-in-out;
-    margin-bottom:60px;
+    margin-bottom:40px;
     margin-top:15px;
     transition:0.8s all ease;
   }
@@ -54,4 +53,28 @@
   }
   li{
       padding:7px;
+  }
+  @media screen and (max-width:1000px){
+    main {
+        width: 75vw;
+        margin: 0 auto;
+      }
+      summary{
+          font-size: 20px;
+      }
+      p{
+          font-size:17px;
+      }
+  }
+  @media screen and (max-width:600px){
+    main {
+        width: 88vw;
+        margin: 0 auto;
+      }
+      summary{
+          font-size: 15px;
+      }
+      p{
+          font-size:13px;
+      }
   }

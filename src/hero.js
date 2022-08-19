@@ -2,7 +2,7 @@ import {html, render} from '../getLitHTML.js'
         // Define a template
 const myTemplate = () => html
     ` 
-<img src="../images/glow4.png" alt='' class="absolute right-0" />
+<img src="../images/glow4.png" alt='' class="absolute -right-50 glow4" />
     <div class='hero_cont flex'>
         <img src='../images/logo_hero.png' alt='logo' class="heroAnimation" />
         <div class="heroAnimation">
@@ -10,7 +10,7 @@ const myTemplate = () => html
             <h1 class='text-klutchh-purple heroAnimation'>To Klutchh?</h1>
             <p class="heroAnimation">India’s Fastest Growing Esports Fantasy Platform.<br />
             For the gamers by the gamers.</p>
-            <div class='flex hero-d heroAnimation'>
+            <div class='relative flex hero-d heroAnimation'>
                 <img class='hero-downloader'width='30%' src='../images/GetAppIcons/android.png' alt='android' />
                 <img class='hero-web'width='30%' src='../images/GetAppIcons/webapp.png' alt='web' />
             <div>

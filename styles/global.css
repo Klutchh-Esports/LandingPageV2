@@ -11,6 +11,7 @@
     scroll-behavior: smooth;
     max-width:100vw;
     overflow-x: hidden !important;
+    touch-action:pan-y;
 }
 body, #body-child , .hidden{
     background-color: #000235;
@@ -151,6 +152,9 @@ li:hover{
 .right-0{
     right:0;
 }
+.-right-50{
+    right:-50px;
+}
 .pt-1{
     padding-top:1rem;
 }
@@ -183,13 +187,13 @@ li:hover{
 }
 .paralax{
     opacity:0;
-    transform: translateY(-100px);
-    transition: 1.8s all ease;
+    transform: translateY(-70px);
+    transition: 1.8s all ease-in-out;
     overflow:hidden;
   }
 .paralax.activePARA{
     opacity:1;
-    transform: translateY(0);
+    transform: translateY(20px);
 }
 .heroAnimation{
     transform: translateY(20px);
@@ -227,3 +231,14 @@ li:hover{
   .hero-d{
       z-index:999999999999;
   }
+*{
+    user-drag:none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+}
+.glow4{
+    height:100%;
+    width:30% !important;
+}

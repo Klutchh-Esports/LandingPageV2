@@ -26,6 +26,18 @@
     height:auto;
     padding:0;
 }
+@media screen and (max-width:1500px){
+    .testimonials-element > img{
+        width:370px;
+        height:auto;
+    }
+}
+@media screen and (max-width:1200px){
+    .testimonials-element > img{
+        width:330px;
+        height:auto;
+    }
+}
 @media screen and (max-width:1000px){
     #testimonials > h1{
         font-size: 3em;
