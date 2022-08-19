@@ -193,7 +193,7 @@ li:hover{
   }
 .paralax.activePARA{
     opacity:1;
-    transform: translateY(20px);
+    transform: translateY(0px);
 }
 .heroAnimation{
     transform: translateY(20px);
