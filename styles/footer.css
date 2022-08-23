@@ -11,7 +11,7 @@
     padding:0.5em;
     width:5.6em;
     height:auto;
-    cursor:url("../images/hand.png"),auto;
+    cursor:url("../images/hand.png"),pointer;
 }
 .footer-list{
     margin:auto;
@@ -22,7 +22,7 @@
 }
 .footer-list>li{
     padding:0.5em;
-    cursor:url("../images/hand.png"),auto !important;
+    cursor:url("../images/hand.png"),pointer !important;
 }
 .footer-logo{
     width:40%;
@@ -38,7 +38,7 @@
     align-self: center;
     justify-content: right;
     width:100%;
-    cursor:url("../images/hand.png"),auto;
+    cursor:url("../images/hand.png"),pointer;
 }
 .one , .two{
     font-size:10px;
@@ -115,5 +115,5 @@
     }
 }
 .blog_footer:hover , .social-icons:hover, .footer-list>li>a:hover{
-    cursor:url("../images/hand.png"),auto;;
+    cursor:url("../images/hand.png"),pointer;
 }

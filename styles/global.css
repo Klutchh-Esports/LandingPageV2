@@ -44,7 +44,7 @@ button{
     font-family: 'Poppins', sans-serif;
 }
 button:hover{
-    cursor:url("../images/hand.png"),auto;
+    cursor:url("../images/hand.png"),pointer;
     transition: 0.3s all ease;
     box-shadow:0 0 30px 2px rgb(255,255,255,0.3);
     background: linear-gradient(180deg, #9068E4 0%, #454586 100%);
@@ -139,7 +139,7 @@ a{
 }
 .hero-d>img:hover{
     transition: 0.3s;
-    cursor:url("../images/hand.png"),auto;
+    cursor:url("../images/hand.png"),pointer;
     transform:scale(0.98);
 }
 li:hover{
@@ -178,7 +178,7 @@ li:hover{
 }
 .fade{
     opacity: 0.2;
-    transition: 1s all ease;
+    transition: 0.7s all ease;
     overflow:hidden;
 }
 .fade.active{
@@ -188,7 +188,7 @@ li:hover{
 .paralax{
     opacity:0;
     transform: translateY(-70px);
-    transition: 1.8s all ease-in-out;
+    transition: 1s all ease-in-out;
     overflow:hidden;
   }
 .paralax.activePARA{
@@ -198,7 +198,7 @@ li:hover{
 .heroAnimation{
     transform: translateY(20px);
     opacity: 0;
-    transition: 0.4s all ease;
+    transition: 0.2s all ease;
 }
 .heroAnimation.active{
     transform: translateY(0);
