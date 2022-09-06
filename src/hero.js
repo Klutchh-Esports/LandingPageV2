@@ -10,6 +10,7 @@ const myTemplate = () => html
             <h1 class='text-klutchh-purple heroAnimation'>To Klutchh?</h1>
             <p class="heroAnimation">India’s Fastest Growing Esports Fantasy Platform.<br />
             For the gamers by the gamers.</p>
+            
             <div class='relative flex hero-d heroAnimation'>
                 <img class='hero-downloader'width='30%' src='../images/GetAppIcons/android.png' alt='android' />
                 <img class='hero-web'width='30%' src='../images/GetAppIcons/webapp.png' alt='web' />
@@ -32,3 +33,36 @@ document.querySelector(".hero-web").onclick = function(){
             '_blank'
           );
 }
+
+// GET APP LINK CODE 
+{/* <input type="text" id="enterNumber" placeholder="Enter Mobile Number" />
+<button id="getLink" class="btn" >Get Link</button> */}
+// const number = {
+//     num:0,
+// }
+// const validatePhoneNumber = (mobile) => {
+//     const re = /^\d{10}$/;
+//     const re2 = /^\+?([0-9]{2})\)?[-. ]?([0-9]{10})$/;
+//     return re.test(String(mobile)) || re2.test(String(mobile));
+//   };
+// const sendAppLink = async () => {
+//     const validatedMobile = validatePhoneNumber(number.num)
+//     if(validatedMobile){
+//         try{
+//             const response = await axios.get(`https://api.klutchh.in/v1/getapplink?contact=${number.num}`);
+//             console.log(response)
+//         }catch(error){
+//             console.log(error);
+//         }
+//     }
+//     else{
+//         console.log("Invalid Mobile");
+//     }
+// }
+// const getLinkButton = document.getElementById("getLink")
+// const inputNumber = document.getElementById("enterNumber")
+// inputNumber.addEventListener('keyup',(event)=>{
+//     number.num = event.target.value;
+//     console.log(number.num)
+// })
+// getLinkButton.addEventListener("click",sendAppLink)
