@@ -44,12 +44,14 @@ const validatePhoneNumber = (mobile) => {
   };
 const sendAppLink = async () => {
     console.log("I'm Here")
+    customAlert('Sending Download Link...');
     // const validatedMobile = validatePhoneNumber(number.num)
     const validatedMobile = number.num;
     if(validatedMobile){
         try{
             const response = await axios.get(`https://api.klutchh.in/v1/getapplink?contact=${number.num}`);
             console.log(response)
+            customAlert('Link Sent');
         }catch(error){
             console.log(error);
         }
